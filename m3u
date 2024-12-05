@@ -12,7 +12,7 @@ https://SEPARADOR.m3u8
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="Sensa", 1 EL TRECE 
+#EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="Sensa", 1.1 EL TRECE 
 https://smt-edge03.sensa.com.ar//live/eds/Canal13/live_dash_cld/Canal13.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -62,7 +62,7 @@ https://SEPARADOR.m3u8
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="Sensa",  6 CANAL 26 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="Sensa",  6.1 CANAL 26 
 https://smt-edge03.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -121,7 +121,7 @@ https://SEPARADOR.m3u8
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1   tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="Sensa",12 ESPN 
+#EXTINF:-1   tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="Sensa",12.1 ESPN 
 https://smt-edge03.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
