@@ -323,7 +323,7 @@ https://cdn.sensa.com.ar//live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png" group-title="Sensa",🎵  MI MUSICA HITS 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/160/160/0/0/82379535077403.png" group-title="Sensa",🎵 MI MUSICA HITS 
 https://cdn.sensa.com.ar//live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -332,7 +332,7 @@ https://cdn.sensa.com.ar//live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png" group-title="Sensa",🎵  MI MUSICA ROMANTICA 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/160/160/0/0/15712909076760.png" group-title="Sensa",🎵 MI MUSICA ROMANTICA 
 https://cdn.sensa.com.ar//live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
