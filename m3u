@@ -243,7 +243,7 @@ https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="Sensa",⚽ TYC SPORTS 
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png" group-title="Sensa",⚽ TYC SPORTS 
 https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -315,7 +315,7 @@ https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_Lz1m2g0Wh4/X4zqmxnB9jI/AAAAAAAA7Gk/xGsoiBNfcTIXpUh_NaOilLOjY8MVKeu1wCLcBGAsYHQ/s350/quiero.png" group-title="Sensa", 🎵 QUIERO
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/624/CH_LOGO/160/160/0/0/1882958007779.png" group-title="Sensa", 🎵 QUIERO
 https://cdn.sensa.com.ar//live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -363,6 +363,44 @@ https://cdn.sensa.com.ar//live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="Sensa",🎵 MTV 
 https://cdn.sensa.com.ar//live/eds/MTV/live_dash_cld/MTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/160/160/0/0/12050400077728.png" group-title="Sensa",🎵 BILLBOARD
+https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/160/160/0/0/4926258407115.png" group-title="Sensa",🎵 HTV
+https://cdn.sensa.com.ar/live/eds/HTV/live_dash_cld/HTV.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/864/CH_LOGO/160/160/0/0/71442745071244.png" group-title="Sensa",🎵 MTV LIVE
+https://cdn.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/311/CH_LOGO/160/160/0/0/182616500734.png" group-title="Sensa",🎵 TELEHIT
+https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd
+
 
 
 
