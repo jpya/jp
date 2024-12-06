@@ -829,16 +829,6 @@ https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mp
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/481/CH_LOGO/160/160/0/0/1490409807453.png" group-title="Sensa",🧩 BOOMERANG 
 https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd
 
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1   tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="Sensa",🧩 TOONCAST 
-https://cdn.sensa.com.ar//live/eds/Tooncast/live_dash_cld/Tooncast.mpd
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -875,7 +865,23 @@ https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/160/160/0/0/5456596307880.png" group-title="Sensa",🧩 TOONCAST
 https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1812/CH_LOGO/160/160/0/0/10249036073271.png" group-title="Sensa",🧩 ZOOMOO
+https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/160/160/0/0/2335855007695.png" group-title="Sensa",🧩 BABY TV
+https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd
 
 
 
