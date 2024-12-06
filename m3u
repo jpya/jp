@@ -725,7 +725,7 @@ https://cdn.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/90194224071499.png" group-title="Sensa",🐾 HISTORY 
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/90194224071499.png" group-title="Sensa",🐾  HISTORY 
 https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
