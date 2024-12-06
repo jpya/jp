@@ -430,7 +430,7 @@ https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://tv-libre.com/img/universalcrime.webp" group-title="Sensa",🎥 UNIVERSAL CRIME
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="Sensa",🎥 UNIVERSAL CRIME
 https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
 
 
@@ -440,7 +440,7 @@ https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://tv-libre.com/img/universalcomedy.webp" group-title="Sensa",🎥 UNIVERSAL COMEDY
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="Sensa",🎥 UNIVERSAL COMEDY
 https://cdn.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd
 
 
@@ -450,7 +450,7 @@ https://cdn.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://tv-libre.com/img/universalcinema.webp" group-title="Sensa",🎥 UNIVERSAL CINEMA
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="Sensa",🎥 UNIVERSAL CINEMA
 https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -459,7 +459,7 @@ https://cdn.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://tv-libre.com/img/universalpremiere.webp" group-title="Sensa",🎥 UNIVERSAL PREMIERE
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="Sensa",🎥 UNIVERSAL PREMIERE
 https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -468,7 +468,7 @@ https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://tv-libre.com/img/universalreality.webp" group-title="Sensa",🎥 UNIVERSAL REALITY
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="Sensa",🎥 UNIVERSAL REALITY
 https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd
 
 
