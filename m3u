@@ -661,7 +661,7 @@ https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/160/160/0/0/16627153073621.png" group-title="Sensa",🐾  H2 
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/160/160/0/0/16627153073621.png" group-title="Sensa",🐾  HISTORY 2 
 https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
