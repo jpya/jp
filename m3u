@@ -12,7 +12,6 @@
 #EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="Sensa", 🟢 EL TRECE 
 https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -49,7 +48,6 @@ https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="Sensa",🟢 TV PUBLICA 
 https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -58,6 +56,8 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/160/160/0/0/371516250745.png" group-title="Sensa",🟢 VOLVER
 https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd
+
+
 
 
 
@@ -78,7 +78,7 @@ https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-id="TodoNoticias.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="Sensa", 📰 TODO NOTICIAS 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="Sensa", 📰 TODO NOTICIAS 
 https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -105,7 +105,7 @@ https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1   tvg-id="CronicaTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="Sensa",📰 CRONICA TV 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="Sensa",📰 CRONICA TV 
 https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -117,7 +117,6 @@ https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="Sensa", 📰 LA NACION 
 https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -126,6 +125,8 @@ https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/160/160/0/0/120048070713.png" group-title="Sensa", 📰 CNN
 https://cdn.sensa.com.ar//live/eds/CnnINT/live_dash_cld/CnnINT.mpd
+
+
 
 
 
@@ -167,7 +168,6 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -236,7 +236,6 @@ https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -291,7 +290,6 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/160/160/0/0/70671934073582.png" group-title="Sensa",⚽ PX SPORTS
 https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -300,6 +298,7 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/160/160/0/0/61680399078962.png" group-title="Sensa",⚽ CLARO SPORTS
 https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
+
 
 
 
@@ -354,7 +353,6 @@ https://cdn.sensa.com.ar//live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReg
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/160/160/0/0/50713419076833.png" group-title="Sensa",🎵 MI MUSICA POP
 https://cdn.sensa.com.ar//live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -363,7 +361,6 @@ https://cdn.sensa.com.ar//live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="Sensa",🎵 MTV 
 https://cdn.sensa.com.ar//live/eds/MTV/live_dash_cld/MTV.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -404,6 +401,10 @@ https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd
 
 
 
+
+
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -412,7 +413,6 @@ https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png" group-title="Sensa",🎥  HBO 
 https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -468,7 +468,6 @@ https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="Sensa",🎥  HBOMUNDI 
 https://cdn.sensa.com.ar/live/eds/MAX/live_dash_cld/MAX.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -477,7 +476,6 @@ https://cdn.sensa.com.ar/live/eds/MAX/live_dash_cld/MAX.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/160/160/0/0/68908128073927.png" group-title="Sensa",🎥  HBOPOP 
 https://cdn.sensa.com.ar/live/eds/MAXUP/live_dash_cld/MAXUP.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -488,7 +486,6 @@ https://cdn.sensa.com.ar/live/eds/MAXUP/live_dash_cld/MAXUP.mpd
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png" group-title="Sensa",🎥 STAR CHANELL 
 https://cdn.sensa.com.ar//live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -497,7 +494,6 @@ https://cdn.sensa.com.ar//live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png" group-title="Sensa",🎥 UNIVERSAL 
 https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -508,7 +504,6 @@ https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png" group-title="Sensa",🎥  UNIVERSAL CRIME
 https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -517,7 +512,6 @@ https://cdn.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="Sensa",🎥  UNIVERSAL COMEDY
 https://cdn.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -546,7 +540,6 @@ https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="Sensa",🎥  UNIVERSAL REALITY
 https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -555,7 +548,6 @@ https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="Sensa",🎥 SPACE
 https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -566,7 +558,6 @@ https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="Sensa",🎥 AMC 
 https://cdn.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -575,7 +566,6 @@ https://cdn.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/160/160/0/0/60951863073142.png" group-title="Sensa",🎥 CINEMAX 
 https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -586,7 +576,6 @@ https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/160/160/0/0/53485573073445.png" group-title="Sensa",🎥 CINECANAL 
 https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -595,7 +584,6 @@ https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="Sensa",🎥 TNT 
 https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -606,7 +594,6 @@ https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="Sensa",🎥 FX 
 https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -616,7 +603,6 @@ https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png" group-title="Sensa",🎥  AXN 
 https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -625,7 +611,6 @@ https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="Sensa",🎥 TCM 
 https://cdn.sensa.com.ar/live/eds/TCM/live_dash_cld/TCM.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -638,6 +623,11 @@ https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd
 
 
 
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -646,7 +636,6 @@ https://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="Sensa",🐾 HGTV 
 https://cdn.sensa.com.ar//live/eds/HGTV/live_dash_cld/HGTV.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -657,7 +646,6 @@ https://cdn.sensa.com.ar//live/eds/HGTV/live_dash_cld/HGTV.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/160/160/0/0/83674247072710.png" group-title="Sensa",🐾 NAT GEO 
 https://cdn.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -666,7 +654,6 @@ https://cdn.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/90194224071499.png" group-title="Sensa",🐾 HISTORY 
 https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -677,7 +664,6 @@ https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/160/160/0/0/16627153073621.png" group-title="Sensa",🐾  H2 
 https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -686,7 +672,6 @@ https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/160/160/0/0/9654717907493.png" group-title="Sensa",🐾  DISCOVERY SCIENCE 
 https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -697,7 +682,6 @@ https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScienc
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" group-title="Sensa",🐾  DISCOVERY 
 https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -706,7 +690,6 @@ https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChanne
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/60/60/0/0/24981309071389.png" group-title="Sensa",🐾  DISCOVERY WORLD
 https://cdn.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -717,7 +700,6 @@ https://cdn.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mp
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/160/160/0/0/72670030071181.png" group-title="Sensa",🐾  DISCOVERY THEATER 
 https://cdn.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -726,7 +708,6 @@ https://cdn.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheate
 #EXTVLCOPT:http-user-agent=Firef
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/484/CH_LOGO/160/160/0/0/8882809507771.png" group-title="Sensa",🐾 SUN CHANNEL 
 https://cdn.sensa.com.ar/live/eds/SUN/live_dash_cld/SUN.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -737,7 +718,6 @@ https://cdn.sensa.com.ar/live/eds/SUN/live_dash_cld/SUN.mpd
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/160/160/0/0/32909050074718.png" group-title="Sensa",🐾 LOVE NATURE 
 https://csc-ptn-edge01.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -746,7 +726,6 @@ https://csc-ptn-edge01.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png" group-title="Sensa",🐾  ANIMAL PLANET 
 https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -770,6 +749,9 @@ https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/Discove
 
 
 
+
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -778,7 +760,6 @@ https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/Discove
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/86/CH_LOGO/60/60/0/0/90527363073450.png" group-title="Sensa",🥘  FOOD NETWORK 
 https://cdn.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -789,7 +770,6 @@ https://cdn.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/60/60/0/0/15069203073244.png" group-title="Sensa",🥘  EL GOURMET 
 https://cdn.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -799,7 +779,6 @@ https://cdn.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/313/CH_LOGO/160/160/0/0/30883628072788.png" group-title="Sensa",🥘 LIFETIME 
 https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd
 
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
@@ -808,6 +787,12 @@ https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/106/CH_LOGO/160/160/0/0/81998278073390.png" group-title="Sensa",🥘 MAS CHIC 
 https://cdn.sensa.com.ar/live/eds/MasChic/live_dash_cld/MasChic.mpd
+
+
+
+
+
+
 
 
 
