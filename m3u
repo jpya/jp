@@ -1090,6 +1090,11 @@ https://online.coopmorteros.coop/canal50_dash/vivo.mpd
 #EXTVLCOPT:network-caching=1500
 http://cdn.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1241/CH_LOGO/160/160/0/0/42902231076974.png" group-title="Sensa",*️⃣ BRINKMAN
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1500
+https://cdn.sensa.com.ar/output/SMT4/BRKD/output.mpd
+
 
 
 
