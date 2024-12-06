@@ -492,7 +492,7 @@ https://cdn.sensa.com.ar//live/eds/FoxChannel/live_dash_cld/FoxChannel.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png" group-title="Sensa",🎥 UNIVERSAL 
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png" group-title="Sensa",🎥  UNIVERSAL 
 https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
