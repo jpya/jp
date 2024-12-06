@@ -684,7 +684,7 @@ https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/521/498/png-clipart-logo-science-channel-television-channel-discovery-science-science-television-text.png" group-title="Sensa",🐾 DISCOVERY SCIENCE 
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/160/160/0/0/9654717907493.png" group-title="Sensa",🐾 DISCOVERY SCIENCE 
 https://cdn.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd
 
 
@@ -797,7 +797,7 @@ https://cdn.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1   tvg-logo="https://4.bp.blogspot.com/-yIuiaw5RAOY/VZA9CnEF_2I/AAAAAAAAAHk/a_ycmDi9gCY/s1600/maschic-2015.png" group-title="Sensa",🥘 MAS CHIC 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/106/CH_LOGO/160/160/0/0/81998278073390.png" group-title="Sensa",🥘 MAS CHIC 
 https://cdn.sensa.com.ar/live/eds/MasChic/live_dash_cld/MasChic.mpd
 
 
