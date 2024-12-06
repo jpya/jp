@@ -1055,3 +1055,46 @@ https://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd
 
 
 
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/590/CH_LOGO/160/160/0/0/7476260107885.png" group-title="Sensa",*️⃣ CANAL 10 CBA
+https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/589/CH_LOGO/160/160/0/0/51636269072.png" group-title="Sensa",*️⃣ EL 12 CBA
+https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/243/CH_LOGO/160/160/0/0/93511500073657.png" group-title="Sensa",*️⃣ MORTEROS
+https://online.coopmorteros.coop/canal50_dash/vivo.mpd
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="Sensa",*️⃣ PORTEÑA
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#EXTVLCOPT:network-caching=1500
+http://cdn.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
+
+
+
+
+
+
+
+
+
