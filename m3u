@@ -1101,6 +1101,8 @@ http://204.199.3.2/.m3u8
 #EXTINF:-1   tvg-logo="https://freyre.gob.ar/wp-content/uploads/2016/01/logoWebretina.jpg" group-title="Sensa",*️⃣ FREYRE
 https://online.coopmorteros.coop/freyre/freyre.m3u8
 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/160/160/0/0/86198033078075.png" group-title="Sensa",*️⃣ SUARDI
+https://cdn.sensa.com.ar/output/ARR3/SADD/output.mpd
 
 
 
