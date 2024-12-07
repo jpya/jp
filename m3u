@@ -2302,8 +2302,44 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8
 
 
 
+---------------------------------------------------------------TV FUEGO-------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="TV FUEGO",#️⃣  EL NUEVE m3u8
+https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="TV FUEGO",#️⃣  EL NUEVE mpd
+https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="TV FUEGO",#️⃣  TELEFE m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="TV FUEGO",#️⃣  TELEFE mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_DASH/Telefe.mpd
+
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="TV FUEGO",#️⃣  AMERICA m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="TV FUEGO",#️⃣  AMERICA mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_DASH/America.mpd
+
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="TV FUEGO",#️⃣  EL TRECE m3u8
+https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="TV FUEGO",#️⃣  EL TRECE mpd
+https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
+
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="TV FUEGO",#️⃣  TV PUBLICA m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="TV FUEGO",#️⃣  TV PUBLICA mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_DASH/Tv_Publica.mpd
 
 
 
