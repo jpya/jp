@@ -2509,12 +2509,26 @@ https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
 
 
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="Sensa",🎥 FX m3u8
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="TV FUEGO",🎥 FX m3u8
 https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8 
 
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="Sensa",🎥 FX mpd
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="TV FUEGO",🎥 FX mpd
 https://delivery.cdn.rcs.net.ar/mnp/fx/output.mpd
 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/160/160/0/0/60951863073142.png" group-title="TV FUEGO",🎥 CINEMAX m3u8
+https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/160/160/0/0/60951863073142.png" group-title="TV FUEGO",🎥 CINEMAX mpd
+https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="TV FUEGO",🎥 TNT m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="TV FUEGO",🎥 TNT mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_DASH/TNT.mpd
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png" group-title="TV FUEGO",🎥 WARNER m3u8
+https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8 
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png" group-title="TV FUEGO",🎥 WARNER mpd
+https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
