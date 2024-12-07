@@ -2356,5 +2356,23 @@ https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
 
 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="TV FUEGO",📰 A 24 m3u8
+https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="TV FUEGO",📰 A 24 mpd
+https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
+
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="TV FUEGO",📰 C5N m3u8
+https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="TV FUEGO",📰 C5N mpd
+https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
+
+
+
+
+
+
 
 
