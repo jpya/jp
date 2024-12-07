@@ -2399,10 +2399,10 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_DASH/LN.mpd
 
 
-#EXTINF:-1   tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="TV FUEGO",⚽ ESPN m3u8
+#EXTINF:-1   tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="TV FUEGO",⚽ ESPN 1 m3u8
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
-#EXTINF:-1   tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="TV FUEGO",⚽ ESPN mpd
+#EXTINF:-1   tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="TV FUEGO",⚽ ESPN 1 mpd
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_DASH/ESPN.mpd
 
 
@@ -2445,10 +2445,10 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 
-#EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="TV FUEGO",⚽   ESPN PREMIUM m3u8
+#EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="TV FUEGO",⚽   ESPN  PREMIUM m3u8
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
 
-#EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="TV FUEGO",⚽   ESPN PREMIUM mpd
+#EXTINF:-1    tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="TV FUEGO",⚽   ESPN  PREMIUM mpd
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_DASH/ESPN_Premium.mpd
 
 
