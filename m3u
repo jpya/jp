@@ -2357,6 +2357,12 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publi
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_DASH/Tv_Publica.mpd
 
 
+
+
+
+
+
+
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="TV FUEGO",📰 CANAL 26 m3u8
 https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
 
@@ -2397,6 +2403,11 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" group-title="TV FUEGO",📰 LA NACION mpd 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_DASH/LN.mpd
+
+
+
+
+
 
 
 #EXTINF:-1   tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="TV FUEGO",⚽ ESPN 1 m3u8
@@ -2467,6 +2478,29 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_DASH/TyC.mpd
 
 
 
-🎥
+
+
+
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/881/CH_LOGO/60/40/0/0/30164333072684.png" group-title="TV FUEGO"  ,🎥 HBO 2 m3u8
+https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/881/CH_LOGO/60/40/0/0/30164333072684.png" group-title="TV FUEGO"  ,🎥 HBO 2 mpd
+https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="TV FUEGO",🎥 SPACE m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png" group-title="TV FUEGO",🎥 SPACE mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_DASH/Space.mpd
+
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="TV FUEGO",🎥 TCM m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="TV FUEGO",🎥 TCM mpd
+https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
+
+
 
 
