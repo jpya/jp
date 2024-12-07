@@ -2171,7 +2171,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Ca
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
-#EXTINF:-1    tvg-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES FLOW"  ,🌐 Somos Norte
+#EXTINF:-1    tvg-logo="https://static.flow.com.ar/images/6637/CH_LOGO/60/40/0/0/4485570807941.png" group-title="CANALES FLOW"  ,🌐 Somos Norte
 https://chromecast.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2206,7 +2206,7 @@ https://chromecast.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc/Canal_C.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b93e6ce6b4fb51b890ac57d8c0b6a402:53eb2499d8c57cf6f9ea887c8683c591
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Isologo_cba24n.svg" group-title="CANALES FLOW"  ,🌐 CBA24N Córdoba
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Isologo_cba24n.svg/1200px-Isologo_cba24n.svg.png" group-title="CANALES FLOW"  ,🌐 CBA24N Córdoba
 https://chromecast.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc/CBA24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
