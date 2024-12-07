@@ -2370,8 +2370,11 @@ https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="TV FUEGO",📰 CRONICA TV m3u8
+https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
 
-
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="TV FUEGO",📰 CRONICA TV mpd
+https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
 
 
 
