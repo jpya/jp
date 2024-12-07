@@ -1450,7 +1450,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plu
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/73/CH_LOGO/60/40/0/0/3694361407979.png" group-title="CANALES FLOW" ,⚽  FOX Sports
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/73/CH_LOGO/60/40/0/0/3694361407979.png" group-title="CANALES FLOW" ,⚽  FOX Sports 1
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2410,14 +2410,14 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_DASH/ESPN.mpd
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
 #EXTINF:-1   tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="TV FUEGO",⚽ ESPN 2 mpd
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_DASH/ESPN.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_DASH/ESPN2.mpd
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TV FUEGO",⚽ ESPN 3 m3u8
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TV FUEGO",⚽ ESPN 3 mpd
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_DASH/ESPN.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_DASH/ESPN3.mpd
 
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="TV FUEGO",⚽ ESPN 4 m3u8
@@ -2426,10 +2426,10 @@ https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="TV FUEGO",⚽ ESPN 4 mpd
 https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="TV FUEGO",⚽ FOX SPORTS m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="TV FUEGO",⚽ FOX SPORTS 1 m3u8
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="TV FUEGO",⚽ FOX SPORTS mpd
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="TV FUEGO",⚽ FOX SPORTS 1 mpd
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="TV FUEGO",⚽ FOX SPORTS 2 m3u8
