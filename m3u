@@ -1273,6 +1273,10 @@ https://chromecast.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.m
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/724/CH_LOGO/60/40/0/0/2237715507388.png" group-title="CANALES FLOW"  ,📰 Telesur
 https://chromecast.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8a3d29db38c4a9fa9a838c3d4d681db:d3aa374c4c0de33f463b4387a18297a6
+#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="CANALES FLOW"  ,📰 France24 Español
+https://chromecast.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd
 
 
 
@@ -1375,6 +1379,22 @@ https://chromecast.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro
 #KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
 #EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/697/CH_LOGO/60/40/0/0/95216322073987.png" group-title="CANALES FLOW" ,#️⃣ KZOEntertaiment
 https://chromecast.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/723/CH_LOGO/60/40/0/0/7392338407887.png" group-title="CANALES FLOW"   ,#️⃣ Telemax
+https://chromecast.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/El_trece_internacional.png/revision/latest/scale-to-width-down/200?cb=20160308002421" group-title="CANALES FLOW"  ,#️⃣ El Trece Internacional
+https://chromecast.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/1200px-Telefe_Internacional_%282018%29.png" group-title="CANALES FLOW"  ,#️⃣ TELEFE INTERNACIONAL
+https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd
+
 
 
 
@@ -1488,7 +1508,10 @@ https://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1
 #EXTINF:-1   tvg-logo="https://cdn.prod.website-files.com/63f93c51f154b93093b10f40/646b5ca1fc3ceffd6c8479fd_Flow%20brand%20assets%20Final-05.png" group-title="CANALES FLOW"  ,⚽ Eventos UY
 https://chromecast.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc_EXTRA/Eventos_HD_Uy.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/543/CH_LOGO/60/40/0/0/13690842071359.png" group-title="CANALES FLOW"  ,⚽ Eventos 2 AR
+https://chromecast.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_C/Eventos_2_HD.mpd
 
 
 
@@ -2011,7 +2034,10 @@ https://chromecast.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Cha
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1027/CH_LOGO/60/40/0/0/49211360074909.png" group-title="CANALES FLOW"  ,🐾 Discovery TLC
 https://chromecast.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2e44a719947ebfe37de527a9d6df71e:029bddeb08909dd66a80276fc338d692
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/733/CH_LOGO/60/40/0/0/2654526707723.png" group-title="CANALES FLOW"  ,🐾 WOBI
+https://chromecast.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd
 
 
 
@@ -2048,6 +2074,9 @@ https://chromecast.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd
 
 
 
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=23419f2a0a214038a94e24db13ee85a9:4c627ad6b8774e548e28d4aaf82a96a0
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/60/40/0/0/778293230765.png" group-title="CANALES FLOW"   ,Galicia TV
@@ -2058,19 +2087,10 @@ https://chromecast.cvattv.com.ar/live/c6eds/Tv_Galicia/SA_Live_dash_enc/Tv_Galic
 #EXTINF:-1   tvg-logo="https://television-libre.online/img/genpy.png" group-title="CANALES FLOW"  ,GenTV Paraguay
 https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd
 
-
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ltlcolor.png/1200px-Ltlcolor.png" group-title="CANALES FLOW"  ,LaTeleParaguay
 https://chromecast.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b4f56d5c19b45fb3e75a73b6ec06e6c:c464e2b6ded2b52e1e7753b3a859abce
@@ -2107,68 +2127,10 @@ https://chromecast.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_M
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="CANALES FLOW"  ,SNTParaguay
 https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd
 
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0179a4ba9f407dfdee057a33f8f220c:e0c3f11cb1d7f8d17b7a1532f29edb0b
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES FLOW"   ,Somos Corrientes
-https://chromecast.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_Live_dash_enc/Somos_Corrientes.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bffd3b447aa44a429a703245836e46fa:13be31c0bcb76b28b1248bf64ab3926e
-#EXTINF:-1    tvg-logo="https://static.flow.com.ar/images/1045/CH_LOGO/60/40/0/0/6716887007729.png" group-title="CANALES FLOW"  ,Somos La Plata
-https://chromecast.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b57763b8d9c205d609ea509432201fac:a476cf79190fe4810efdd81e32317ff3
-#EXTINF:-1    tvg-logo="https://static.flow.com.ar/images/6637/CH_LOGO/60/40/0/0/4485570807941.png" group-title="CANALES FLOW" ,SOMOS MAR DEL PLATA NECOCHEA
-https://chromecast.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Canal_Ciudad_MDQ.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
-#EXTINF:-1    tvg-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES FLOW"  ,Somos Norte
-https://chromecast.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7071b5b3283cebd376d1ba9c6e53ba6e:87a6c4c8baaefb073270e92f092b4c25
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/7997/CH_LOGO/60/40/0/0/52917235072031.png" group-title="CANALES FLOW"   ,Somos Rafaela
-https://chromecast.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafaela.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/6897/CH_LOGO/60/40/0/0/86582610074184.png" group-title="CANALES FLOW"  ,Somos Rosario
-https://chromecast.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9879546bcfd8a4231ce7502062f424fb:e071693afea3e58f8b28bf5b2311e3fc
-#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/7960/CH_LOGO/60/40/0/0/80711622072411.png" group-title="CANALES FLOW"   ,Somos Salta Jujuy
-https://chromecast.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1344e18e45e6e6e5ec0a302d769c8e52:913cfe90bb3af2d402eada6ad50ce22d
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1263/CH_LOGO/60/40/0/0/5370906407919.png" group-title="CANALES FLOW"  ,Somos Santa Fe
-https://chromecast.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc/Somos_STF.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="CANALES FLOW"  , Canal 10 Córdoba
-https://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd
-
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png" group-title="CANALES FLOW"   ,Telefuturo Paraguay
 https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/723/CH_LOGO/60/40/0/0/7392338407887.png" group-title="CANALES FLOW"   ,Telemax
-https://chromecast.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62034ff5988b4787b17cdf6f751a3142:b3938f0af28b4c0c082b0d4210e389a0
@@ -2196,131 +2158,158 @@ https://chromecast.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana
 https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2e44a719947ebfe37de527a9d6df71e:029bddeb08909dd66a80276fc338d692
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/733/CH_LOGO/60/40/0/0/2654526707723.png" group-title="CANALES FLOW"  ,WOBI
-https://chromecast.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a866ca98bef2351a68e4843139f8073:b0893077653d1ef842a1b65d8b34455a
-#EXTINF:-1  tvg-logo="https://infonegocios.info/content/companies/logos/81031_Canal%20C.png" group-title="CANALES FLOW"  ,Canal C Córdoba
-https://chromecast.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc/Canal_C.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b93e6ce6b4fb51b890ac57d8c0b6a402:53eb2499d8c57cf6f9ea887c8683c591
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Isologo_cba24n.svg" group-title="CANALES FLOW"  ,CBA24N Córdoba
-https://chromecast.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc/CBA24.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7804609194dc7145bf297153276096d2:03d3f4e3d0b35362dadfddce10dee00c
-#EXTINF:-1   tvg-logo="https://pbs.twimg.com/profile_images/614120836279205888/yR_DtcB5_400x400.jpg" group-title="CANALES FLOW"  ,Canal Local Carlos Paz
-https://chromecast.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc/Local_Carlos_Paz.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=93c40cee58a5f415828cc32d0c80d311:d00906d71ee69515cd4dca1162d5ae7f
-#EXTINF:-1   tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="CANALES FLOW"  ,Canal Universidad De La Plata
-https://chromecast.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc/Canal_Universidad.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/672/CH_LOGO/60/40/0/0/37059784072541.png" group-title="CANALES FLOW"  ,UCL
 https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc/Canal_U.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
-#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/El_trece_internacional.png/revision/latest/scale-to-width-down/200?cb=20160308002421" group-title="CANALES FLOW"  ,El Trece Internacional
-https://chromecast.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd
+
+
+
+
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/1200px-Telefe_Internacional_%282018%29.png" group-title="CANALES FLOW"  ,TELEFE INTERNACIONAL
-https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd
+#KODIPROP:inputstream.adaptive.license_key=f0179a4ba9f407dfdee057a33f8f220c:e0c3f11cb1d7f8d17b7a1532f29edb0b
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES FLOW"   ,🌐 Somos Corrientes
+https://chromecast.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_Live_dash_enc/Somos_Corrientes.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bffd3b447aa44a429a703245836e46fa:13be31c0bcb76b28b1248bf64ab3926e
+#EXTINF:-1    tvg-logo="https://static.flow.com.ar/images/1045/CH_LOGO/60/40/0/0/6716887007729.png" group-title="CANALES FLOW"  ,🌐 Somos La Plata
+https://chromecast.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b57763b8d9c205d609ea509432201fac:a476cf79190fe4810efdd81e32317ff3
+#EXTINF:-1    tvg-logo="https://static.flow.com.ar/images/6637/CH_LOGO/60/40/0/0/4485570807941.png" group-title="CANALES FLOW" ,🌐 SOMOS MAR DEL PLATA NECOCHEA
+https://chromecast.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Canal_Ciudad_MDQ.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
+#EXTINF:-1    tvg-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="CANALES FLOW"  ,🌐 Somos Norte
+https://chromecast.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7071b5b3283cebd376d1ba9c6e53ba6e:87a6c4c8baaefb073270e92f092b4c25
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/7997/CH_LOGO/60/40/0/0/52917235072031.png" group-title="CANALES FLOW"   ,🌐 Somos Rafaela
+https://chromecast.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafaela.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/6897/CH_LOGO/60/40/0/0/86582610074184.png" group-title="CANALES FLOW"  ,🌐 Somos Rosario
+https://chromecast.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9879546bcfd8a4231ce7502062f424fb:e071693afea3e58f8b28bf5b2311e3fc
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/7960/CH_LOGO/60/40/0/0/80711622072411.png" group-title="CANALES FLOW"   ,🌐 Somos Salta Jujuy
+https://chromecast.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1344e18e45e6e6e5ec0a302d769c8e52:913cfe90bb3af2d402eada6ad50ce22d
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1263/CH_LOGO/60/40/0/0/5370906407919.png" group-title="CANALES FLOW"  ,🌐 Somos Santa Fe
+https://chromecast.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc/Somos_STF.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="CANALES FLOW"  ,🌐 Canal 10 Córdoba
+https://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a866ca98bef2351a68e4843139f8073:b0893077653d1ef842a1b65d8b34455a
+#EXTINF:-1  tvg-logo="https://infonegocios.info/content/companies/logos/81031_Canal%20C.png" group-title="CANALES FLOW"  ,🌐 Canal C Córdoba
+https://chromecast.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc/Canal_C.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b93e6ce6b4fb51b890ac57d8c0b6a402:53eb2499d8c57cf6f9ea887c8683c591
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Isologo_cba24n.svg" group-title="CANALES FLOW"  ,🌐 CBA24N Córdoba
+https://chromecast.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc/CBA24.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7804609194dc7145bf297153276096d2:03d3f4e3d0b35362dadfddce10dee00c
+#EXTINF:-1   tvg-logo="https://pbs.twimg.com/profile_images/614120836279205888/yR_DtcB5_400x400.jpg" group-title="CANALES FLOW"  ,🌐 Canal Local Carlos Paz
+https://chromecast.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc/Local_Carlos_Paz.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=93c40cee58a5f415828cc32d0c80d311:d00906d71ee69515cd4dca1162d5ae7f
+#EXTINF:-1   tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="CANALES FLOW"  ,🌐 Canal Universidad De La Plata
+https://chromecast.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc/Canal_Universidad.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=513f2056bf40d9123918fd7939fbf065:075ee6dd9b67d88be5642eaa510e91cb
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/8001/CH_LOGO/60/40/0/0/68046414071342.png" group-title="CANALES FLOW"  ,Somos El Valle
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/8001/CH_LOGO/60/40/0/0/68046414071342.png" group-title="CANALES FLOW"  ,🌐 Somos El Valle
 https://chromecast.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc/Somos_El_Valle.mpd
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/543/CH_LOGO/60/40/0/0/13690842071359.png" group-title="CANALES FLOW"  ,Eventos 2 AR
-https://chromecast.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_C/Eventos_2_HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a3d29db38c4a9fa9a838c3d4d681db:d3aa374c4c0de33f463b4387a18297a6
-#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="CANALES FLOW"  ,France24 Español
-https://chromecast.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a15243320c0a79defa8814252e3e8c07:0659db05632c0061c126db7a12582499
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Canal_Siete_Bahia_Blanca.png" group-title="CANALES FLOW"  ,Canal 7 Bahía Blanca
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Canal_Siete_Bahia_Blanca.png" group-title="CANALES FLOW"  ,🌐 Canal 7 Bahía Blanca
 https://chromecast.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc/Canal7_Bahia_Blanca.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ccfc823faed878832b3e4a69fcb72a2:d68b394ab768f4a2ec148ab8cdac46ef
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Canalnuevebblanca.png/640px-Canalnuevebblanca.png" group-title="CANALES FLOW"  ,Canal 9 BAHÍA BLANCA
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Canalnuevebblanca.png/640px-Canalnuevebblanca.png" group-title="CANALES FLOW"  ,🌐 Canal 9 BAHÍA BLANCA
 https://chromecast.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc/Canal9_Bahia_Blanca.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dde29700ee0423e1afe3828c6f251295:1928b62bc191bd26c357137d7d909868
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" group-title="CANALES FLOW"  ,Canal 9 Chaco
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" group-title="CANALES FLOW"  ,🌐 Canal 9 Chaco
 https://chromecast.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_Live_dash_enc/CH_9_Resistencia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd573858f3414066b9292ef6397a5c3c:593eb5f7facce4240ff7a5f26afd47e0
-#EXTINF:-1   tvg-logo="https://polotecparana.com.ar/wp-content/uploads/2021/09/LOGO-CANAL-NUEVE-LITORAL-01-NueveLitoral.png" group-title="CANALES FLOW"  ,Canal 9 Litoral
+#EXTINF:-1   tvg-logo="https://polotecparana.com.ar/wp-content/uploads/2021/09/LOGO-CANAL-NUEVE-LITORAL-01-NueveLitoral.png" group-title="CANALES FLOW"  ,🌐 Canal 9 Litoral
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc/Canal_9_Parana.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55828b728b8affe6d1d57d050025645d:8ac11ed6d0ccaeac3f8218419f65bb94
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="CANALES FLOW"  ,Canal 7 NEUQUÉN
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="CANALES FLOW"  ,🌐 Canal 7 NEUQUÉN
 https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c996a1465acddc9c3f7a2dd9b86aa88:a2b63e48c99bebb52bfcdb1830efdd3e
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Canal_12_-_Misiones.png" group-title="CANALES FLOW"  ,Canal 12 MISIONES
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Canal_12_-_Misiones.png" group-title="CANALES FLOW"  ,🌐 Canal 12 MISIONES
 https://chromecast.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc/CH_12_Posadas.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c7a5de392f874308e4dd8f2837f1115:9ccf9ec6922c403d67d0df7952547581
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo-Canal-Once-Salta.png" group-title="CANALES FLOW"  ,Canal 11 SALTA
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo-Canal-Once-Salta.png" group-title="CANALES FLOW"  ,🌐 Canal 11 SALTA
 https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="CANALES FLOW"  ,Canal 3 ROSARIO
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="CANALES FLOW"  ,🌐 Canal 3 ROSARIO
 https://chromecast.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c61b5ac8e1664bf5b544e92ea2597e1c:938437ac25f0a18e04efc1a083489edc
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png" group-title="CANALES FLOW"   ,TELEFÉ ROSARIO
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png" group-title="CANALES FLOW"   ,🌐 TELEFÉ ROSARIO
 https://chromecast.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59ef9057114f44a480b62e36a6b1374f:74ef97bc54df5655c3a1d4f80b16e8d7
-#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="CANALES FLOW" ,TELEFÉ SANTA FE
+#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="CANALES FLOW" ,🌐 TELEFÉ SANTA FE
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed542fdaa4598671e26aca3e160afed7:cdb880c60523b9ebc61b9003c41f8048
-#EXTINF:-1    tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcj2knBfG_p6DC8Vxb9_1NzM8lSmu9TQVSFab8ToqU_gusu7kccOkTClxQW_LTsUw9JCGmZE8yvosjkFrO_rOS95mSvQT785RYYY-VQ1lQw71n-YtW8gW2SXg5Wuh3OMWhDb71COlJLOfG4ovsmf2vjx2ZaOBiQzl0Vg24snZ9bthlwC4gk8eLlTTI/s614/Am%C3%A9rica_Tucum%C3%A1n-2019.png" group-title="CANALES FLOW"  ,AMERICA TUCUMÁN
+#EXTINF:-1    tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcj2knBfG_p6DC8Vxb9_1NzM8lSmu9TQVSFab8ToqU_gusu7kccOkTClxQW_LTsUw9JCGmZE8yvosjkFrO_rOS95mSvQT785RYYY-VQ1lQw71n-YtW8gW2SXg5Wuh3OMWhDb71COlJLOfG4ovsmf2vjx2ZaOBiQzl0Vg24snZ9bthlwC4gk8eLlTTI/s614/Am%C3%A9rica_Tucum%C3%A1n-2019.png" group-title="CANALES FLOW"  ,🌐 AMERICA TUCUMÁN
 https://chromecast.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo-Canal-8-tucum%C3%A1n.png" group-title="CANALES FLOW"  ,Canal 8 TV TUCUMÁN
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo-Canal-8-tucum%C3%A1n.png" group-title="CANALES FLOW"  ,🌐 Canal 8 TV TUCUMÁN
 https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" group-title="CANALES FLOW"  ,Canal 10 TUCUMÁN
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" group-title="CANALES FLOW"  ,🌐 Canal 10 TUCUMÁN
 https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CANALES FLOW"  ,Canal 12 CÓRDOBA
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CANALES FLOW"  ,🌐 Canal 12 CÓRDOBA
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd
 
 
