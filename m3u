@@ -1211,9 +1211,14 @@ https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNo
 
 
 
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png" group-title="CANALES FLOW" ,TV Pública
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png" group-title="CANALES FLOW" ,#️⃣  TV Pública
 https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1223,95 +1228,98 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png" group-title="CANALES FLOW" ,Elnueve
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png" group-title="CANALES FLOW" ,#️⃣  Elnueve
 https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="CANALES FLOW"  ,Canal 10 Córdoba
-https://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/69/CH_LOGO/60/40/0/0/65442435072354.png" group-title="CANALES FLOW" ,Telefe
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/69/CH_LOGO/60/40/0/0/65442435072354.png" group-title="CANALES FLOW" ,#️⃣  Telefe
 https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/75/CH_LOGO/60/40/0/0/59037504071341.png" group-title="CANALES FLOW"  ,Eltrece
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/75/CH_LOGO/60/40/0/0/59037504071341.png" group-title="CANALES FLOW"  ,#️⃣  Eltrece
 https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/66/CH_LOGO/60/40/0/0/60528493072631.png" group-title="CANALES FLOW" ,América
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/66/CH_LOGO/60/40/0/0/60528493072631.png" group-title="CANALES FLOW" ,#️⃣  América
 https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/7457/CH_LOGO/60/40/0/0/96867739074646.png" group-title="CANALES FLOW"  ,Net TV
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/7457/CH_LOGO/60/40/0/0/96867739074646.png" group-title="CANALES FLOW"  ,#️⃣ Net TV
 https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
-#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/9117/CH_LOGO/60/40/0/0/48405905077154.png" group-title="CANALES FLOW"  ,Bravo TV
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/9117/CH_LOGO/60/40/0/0/48405905077154.png" group-title="CANALES FLOW"  ,#️⃣ Bravo TV
 https://chromecast.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
-#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/667/CH_LOGO/60/40/0/0/846786600758.png" group-title="CANALES FLOW"  ,Canal a
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/667/CH_LOGO/60/40/0/0/846786600758.png" group-title="CANALES FLOW"  ,#️⃣ Canal a
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/64/CH_LOGO/60/40/0/0/731751480726.png" group-title="CANALES FLOW" ,Ciudad Magazine
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/64/CH_LOGO/60/40/0/0/731751480726.png" group-title="CANALES FLOW" ,#️⃣ Ciudad Magazine
 https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
-#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/706/CH_LOGO/60/40/0/0/904936680727.png" group-title="CANALES FLOW"  ,METRO
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/706/CH_LOGO/60/40/0/0/904936680727.png" group-title="CANALES FLOW"  ,#️⃣ METRO
 https://chromecast.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
-#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/732/CH_LOGO/60/40/0/0/952123260745.png" group-title="CANALES FLOW"  ,Volver
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/732/CH_LOGO/60/40/0/0/952123260745.png" group-title="CANALES FLOW"  ,#️⃣ Volver
 https://chromecast.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://www.caminandobaires.com.ar/wp-content/uploads/2017/10/Canal-de-la-Ciudad-LOGO.png" group-title="CANALES FLOW" ,Canal De La Ciudad
+#EXTINF:-1   tvg-logo="https://www.caminandobaires.com.ar/wp-content/uploads/2017/10/Canal-de-la-Ciudad-LOGO.png" group-title="CANALES FLOW" ,#️⃣ Canal De La Ciudad
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/664/CH_LOGO/60/40/0/0/162756280757.png" group-title="CANALES FLOW" ,Argentinísima Satelital
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/664/CH_LOGO/60/40/0/0/162756280757.png" group-title="CANALES FLOW" ,#️⃣ Argentinísima Satelital
 https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/671/CH_LOGO/60/40/0/0/157201010711.png" group-title="CANALES FLOW" ,Canal Rural
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/671/CH_LOGO/60/40/0/0/157201010711.png" group-title="CANALES FLOW" ,#️⃣ Canal Rural
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2b0364a95feb428933fd2396e99b187:b301ecdcc386fc4dc59e8ad547bbcd3c
-#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://i.ytimg.com/vi/BcnO8OdAylM/maxresdefault.jpg" group-title="CANALES FLOW"  ,Chacra TV
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/BcnO8OdAylM/maxresdefault.jpg" group-title="CANALES FLOW"  ,#️⃣ Chacra TV
 https://chromecast.cvattv.com.ar/live/c3eds/Chacra_TV/SA_Live_dash_enc/Chacra_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
-#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/7097/CH_LOGO/60/40/0/0/58413014074320.png" group-title="CANALES FLOW"  ,Diputados TV
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/7097/CH_LOGO/60/40/0/0/58413014074320.png" group-title="CANALES FLOW"  ,#️⃣ Diputados TV
 https://chromecast.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/686/CH_LOGO/60/40/0/0/1239356307477.png" group-title="CANALES FLOW" ,Encuentro
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/686/CH_LOGO/60/40/0/0/1239356307477.png" group-title="CANALES FLOW" ,#️⃣ Encuentro
 https://chromecast.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
-#EXTINF:-1 group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/697/CH_LOGO/60/40/0/0/95216322073987.png" group-title="CANALES FLOW" ,KZOEntertaiment
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/697/CH_LOGO/60/40/0/0/95216322073987.png" group-title="CANALES FLOW" ,#️⃣ KZOEntertaiment
 https://chromecast.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="CANALES FLOW"  , Canal 10 Córdoba
+https://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
