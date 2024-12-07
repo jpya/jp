@@ -2426,22 +2426,22 @@ https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="TV FUEGO",⚽ ESPN 4 mpd
 https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="TV FUEGO",⚽  FOX SPORTS m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="TV FUEGO",⚽ FOX SPORTS m3u8
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="TV FUEGO",⚽  FOX SPORTS mpd
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="TV FUEGO",⚽ FOX SPORTS mpd
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="TV FUEGO",⚽  FOX SPORTS 2 m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="TV FUEGO",⚽ FOX SPORTS 2 m3u8
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="TV FUEGO",⚽  FOX SPORTS 2 mpd
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="TV FUEGO",⚽ FOX SPORTS 2 mpd
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="TV FUEGO",⚽  FOX SPORTS 3 m3u8
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="TV FUEGO",⚽ FOX SPORTS 3 m3u8
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="TV FUEGO",⚽  FOX SPORTS 3 mpd
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="TV FUEGO",⚽ FOX SPORTS 3 mpd
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 
