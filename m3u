@@ -2682,9 +2682,24 @@ https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
 
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/674/CH_LOGO/60/40/0/0/3383758507230.png" group-title="TV FUEGO"  ,🎵 CM m3u8
+https://delivery.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/674/CH_LOGO/60/40/0/0/3383758507230.png" group-title="TV FUEGO DASH"  ,🎵 CM mpd
+https://delivery.cdn.rcs.net.ar/mnp/cm/output.mpd
 
 
 
+
+
+
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093074301.png" group-title="TV FUEGO DASH",💞 TELEMUNDO m3u8
+https://delivery.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093074301.png" group-title="TV FUEGO",💞 TELEMUNDO mpd
+https://delivery.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 
 
 
