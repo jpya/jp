@@ -2532,3 +2532,39 @@ https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png" group-title="TV FUEGO",🎥 WARNER mpd
 https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png" group-title="TV FUEGO",🎥  UNIVERSAL m3u8
+https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8 
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png" group-title="TV FUEGO",🎥  UNIVERSAL mpd
+https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png" group-title="TV FUEGO",🎥  AXN m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png" group-title="TV FUEGO",🎥  AXN mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_DASH/AXN.mpd
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png" group-title="TV FUEGO",🐾  ANIMAL PLANET m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png" group-title="TV FUEGO",🐾  ANIMAL PLANET mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
+
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" group-title="TV FUEGO",🐾  DISCOVERY m3u8
+https://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" group-title="TV FUEGO",🐾  DISCOVERY mpd
+https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
+
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/65/CH_LOGO/160/160/0/0/11000383072218.png" group-title="TV FUEGO",🐾  DISCOVERY H&H m3u8
+https://delivery.cdn.rcs.net.ar/mnp/disc_hh_hls/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/65/CH_LOGO/160/160/0/0/11000383072218.png" group-title="TV FUEGO",🐾  DISCOVERY H&H mpd
+https://delivery.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
