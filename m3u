@@ -2079,87 +2079,87 @@ https://chromecast.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=23419f2a0a214038a94e24db13ee85a9:4c627ad6b8774e548e28d4aaf82a96a0
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/60/40/0/0/778293230765.png" group-title="CANALES FLOW"   ,Galicia TV
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/60/40/0/0/778293230765.png" group-title="CANALES FLOW"   ,🛞 Galicia TV
 https://chromecast.cvattv.com.ar/live/c6eds/Tv_Galicia/SA_Live_dash_enc/Tv_Galicia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
-#EXTINF:-1   tvg-logo="https://television-libre.online/img/genpy.png" group-title="CANALES FLOW"  ,GenTV Paraguay
+#EXTINF:-1   tvg-logo="https://television-libre.online/img/genpy.png" group-title="CANALES FLOW"  ,🛞 GenTV Paraguay
 https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c6a481adf6a080ec09637d3f25989cf:036e343d636b821ab81838de387b62cb
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ltlcolor.png/1200px-Ltlcolor.png" group-title="CANALES FLOW"  ,LaTeleParaguay
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ltlcolor.png/1200px-Ltlcolor.png" group-title="CANALES FLOW"  ,🛞 LaTeleParaguay
 https://chromecast.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b4f56d5c19b45fb3e75a73b6ec06e6c:c464e2b6ded2b52e1e7753b3a859abce
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1162/CH_LOGO/60/40/0/0/56427781071667.png" group-title="CANALES FLOW"  ,New Brasil
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/1162/CH_LOGO/60/40/0/0/56427781071667.png" group-title="CANALES FLOW"  ,🛞 New Brasil
 https://chromecast.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
-#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/NPY_Logo2023.png" group-title="CANALES FLOW"  ,NoticiasParaguay
+#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/NPY_Logo2023.png" group-title="CANALES FLOW"  ,🛞 NoticiasParaguay
 https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" group-title="CANALES FLOW"  ,Paraguay TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" group-title="CANALES FLOW"  ,🛞 Paraguay TV
 https://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Paravision.jpg" group-title="CANALES FLOW"   ,ParavisionParaguay
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Paravision.jpg" group-title="CANALES FLOW"   ,🛞 ParavisionParaguay
 https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d214547d7d9a4011a39a899ce6e70071:16c2ed0617cf1e123f3af6ea8875a82d
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/60/40/0/0/577119940729.png" group-title="CANALES FLOW"  ,RAI Italia
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/60/40/0/0/577119940729.png" group-title="CANALES FLOW"  ,🛞 RAI Italia
 https://chromecast.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
-#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/963/CH_LOGO/60/40/0/0/90186340072381.png" group-title="CANALES FLOW"   ,Santa María
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/963/CH_LOGO/60/40/0/0/90186340072381.png" group-title="CANALES FLOW"   ,🛞 Santa María
 https://chromecast.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f61dcce871cc41aeb206d05028fc30a:9f6248194a3bf5e35b96b194e8624693
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="CANALES FLOW"  ,SNTParaguay
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="CANALES FLOW"  ,🛞 SNTParaguay
 https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png" group-title="CANALES FLOW"   ,Telefuturo Paraguay
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TelefuturoLogo2022.png" group-title="CANALES FLOW"   ,🛞 Telefuturo Paraguay
 https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62034ff5988b4787b17cdf6f751a3142:b3938f0af28b4c0c082b0d4210e389a0
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/730/CH_LOGO/60/40/0/0/598085290738.png" group-title="CANALES FLOW"   ,TV5Monde Amerique Latine
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/730/CH_LOGO/60/40/0/0/598085290738.png" group-title="CANALES FLOW"   ,🛞 TV5Monde Amerique Latine
 https://chromecast.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="CANALES FLOW"   ,TV Ciudad Uruguay
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="CANALES FLOW"   ,🛞 TV Ciudad Uruguay
 https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
-#EXTINF:-1    tvg-logo="https://static.flow.com.ar/images/727/CH_LOGO/60/40/0/0/333157600739.png" group-title="CANALES FLOW"  ,TV Chile
+#EXTINF:-1    tvg-logo="https://static.flow.com.ar/images/727/CH_LOGO/60/40/0/0/333157600739.png" group-title="CANALES FLOW"  ,🛞 TV Chile
 https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53e0a3741e2e4ff5843f165b53309088:45095caabd9a359cd7ea3910d865d643
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/728/CH_LOGO/60/40/0/0/834899000759.png" group-title="CANALES FLOW"   ,TVE
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/728/CH_LOGO/60/40/0/0/834899000759.png" group-title="CANALES FLOW"   ,🛞 TVE
 https://chromecast.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="CANALES FLOW"  ,VTV Uruguay
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="CANALES FLOW"  ,🛞 VTV Uruguay
 https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/672/CH_LOGO/60/40/0/0/37059784072541.png" group-title="CANALES FLOW"  ,UCL
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/672/CH_LOGO/60/40/0/0/37059784072541.png" group-title="CANALES FLOW"  ,🛞 UCL
 https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc/Canal_U.mpd
 
 
