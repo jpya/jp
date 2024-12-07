@@ -2611,6 +2611,11 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Disc
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="TV FUEGO DASH",🐾 HGTV mpd
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_DASH/Discovery_HGTV.mpd
 
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/160/160/0/0/9654717907493.png" group-title="TV FUEGO",🐾  DISCOVERY SCIENCE m3u8
+https://delivery.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/160/160/0/0/9654717907493.png" group-title="TV FUEGO DASH",🐾  DISCOVERY SCIENCE mpd
+https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 
 
 
