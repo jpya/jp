@@ -2605,7 +2605,11 @@ https://delivery.cdn.rcs.net.ar/mnp/disc_theater_hls/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/160/160/0/0/72670030071181.png" group-title="TV FUEGO",🐾  DISCOVERY THEATER mpd
 https://delivery.cdn.rcs.net.ar/mnp/disc_theater/output.mpd
 
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="TV FUEGO",🐾 HGTV m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
 
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="TV FUEGO",🐾 HGTV mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_DASH/Discovery_HGTV.mpd
 
 
 
@@ -2659,11 +2663,27 @@ https://delivery.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 
 
 
+
+
+
+
+
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/160/160/0/0/4926258407115.png" group-title="TV FUEGO",🎵 HTV mpd
 https://delivery.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/160/160/0/0/4926258407115.png" group-title="TV FUEGO",🎵 HTV mpd
 https://delivery.cdn.rcs.net.ar/mnp/htv/output.mpd 
+
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="TV FUEGO",🎵 MTV m3u8
+https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="TV FUEGO",🎵 MTV mpd
+https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
+
+
+
+
 
 
 
