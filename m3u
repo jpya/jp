@@ -2458,3 +2458,12 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Spor
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="TV FUEGO",⚽   TNT SPORTS mpd
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_DASH/TNT_Sports.mpd
 
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="TV FUEGO",⚽ TYC SPORTS m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_HLS/TyC.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="TV FUEGO",⚽ TYC SPORTS mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_DASH/TyC.mpd
+
+
+
