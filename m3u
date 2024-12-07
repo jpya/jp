@@ -2349,10 +2349,10 @@ https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/canal26/output.mpd
 
 
-#EXTINF:-1   tvg-id="TodoNoticias.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="NOTICIAS",📰 TODO NOTICIAS m3u8
+#EXTINF:-1   tvg-id="TodoNoticias.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="TV FUEGO",📰 TODO NOTICIAS m3u8
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
-#EXTINF:-1   tvg-id="TodoNoticias.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="NOTICIAS",📰 TODO NOTICIAS mpd
+#EXTINF:-1   tvg-id="TodoNoticias.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="TV FUEGO",📰 TODO NOTICIAS mpd
 https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
 
 
