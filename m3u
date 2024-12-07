@@ -2502,5 +2502,19 @@ https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
 
 
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="TV FUEGO",🎥 AMC m3u8
+https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="TV FUEGO",🎥 AMC mpd
+https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
+
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="Sensa",🎥 FX m3u8
+https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8 
+
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="Sensa",🎥 FX mpd
+https://delivery.cdn.rcs.net.ar/mnp/fx/output.mpd
+
+
 
 
