@@ -2736,491 +2736,491 @@ https://delivery.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 
 
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171265.jpg?w=1119&h=1019" group-title="Movistar Lista",WILLAX
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171265.jpg?w=1119&h=1019" group-title="Movistar Peru",WILLAX
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171281.jpg?w=1119&h=1019" group-title="Movistar Lista",LATINA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171281.jpg?w=1119&h=1019" group-title="Movistar Peru",LATINA
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171317.jpg?w=1119&h=1019" group-title="Movistar Lista",AMÉRICA TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171317.jpg?w=1119&h=1019" group-title="Movistar Peru",AMÉRICA TV
 https://bantel-cdn1.iptvperu.tv:1936/cdnjut/americatv.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171350.jpg?w=1119&h=1019" group-title="Movistar Lista",PANAMERICANA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171350.jpg?w=1119&h=1019" group-title="Movistar Peru",PANAMERICANA
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171385.jpg?w=1119&h=1019" group-title="Movistar Lista",TV PERÚ
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171385.jpg?w=1119&h=1019" group-title="Movistar Peru",TV PERÚ
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171414.jpg?w=1119&h=1019" group-title="Movistar Lista",ATV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171414.jpg?w=1119&h=1019" group-title="Movistar Peru",ATV
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171403.jpg?w=1119&h=1019" group-title="Movistar Lista",ATV PLUS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171403.jpg?w=1119&h=1019" group-title="Movistar Peru",ATV PLUS
 https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171466.jpg?w=1119&h=1019" group-title="Movistar Lista",EXITOSA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171466.jpg?w=1119&h=1019" group-title="Movistar Peru",EXITOSA
 https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171486.jpg?w=1119&h=1019" group-title="Movistar Lista",LA TELE
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171486.jpg?w=1119&h=1019" group-title="Movistar Peru",LA TELE
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/latele.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171365.jpg?w=1119&h=1019" group-title="Movistar Lista",GLOBAL TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171365.jpg?w=1119&h=1019" group-title="Movistar Peru",GLOBAL TV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171508.jpg?w=1119&h=1019" group-title="Movistar Lista",USMP TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171508.jpg?w=1119&h=1019" group-title="Movistar Peru",USMP TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/usmp.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171423.jpg?w=1119&h=1019" group-title="Movistar Lista",ATV SUR
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171423.jpg?w=1119&h=1019" group-title="Movistar Peru",ATV SUR
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/atvsur.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171726.jpg?w=1119&h=1019" group-title="Movistar Lista",ONDA DIGITAL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171726.jpg?w=1119&h=1019" group-title="Movistar Peru",ONDA DIGITAL
 http://bantel-cdn1.iptvperu.tv:1935/cdntxi/ondadigital/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171538.jpg?w=1119&h=1019" group-title="Movistar Lista",NATIVA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171538.jpg?w=1119&h=1019" group-title="Movistar Peru",NATIVA
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171606.jpg?w=1119&h=1019" group-title="Movistar Lista",BETHEL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171606.jpg?w=1119&h=1019" group-title="Movistar Peru",BETHEL
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171553.jpg?w=1119&h=1019" group-title="Movistar Lista",JUSTICIA TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171553.jpg?w=1119&h=1019" group-title="Movistar Peru",JUSTICIA TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/justicia.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171570.jpg?w=1119&h=1019" group-title="Movistar Lista",VIVA TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171570.jpg?w=1119&h=1019" group-title="Movistar Peru",VIVA TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/vivatv.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171629.jpg?w=1119&h=1019" group-title="Movistar Lista",BETHEL +
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171629.jpg?w=1119&h=1019" group-title="Movistar Peru",BETHEL +
 http://bantel-cdn1.iptvperu.tv:1935/cdnpos/bethel/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171697.jpg?w=1119&h=1019" group-title="Movistar Lista",ODTV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171697.jpg?w=1119&h=1019" group-title="Movistar Peru",ODTV
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/ODTV.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171711.jpg?w=1119&h=1019" group-title="Movistar Lista",ODTV2
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171711.jpg?w=1119&h=1019" group-title="Movistar Peru",ODTV2
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/ODTV2.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171584.jpg?w=1119&h=1019" group-title="Movistar Lista",CONECTA 2 TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171584.jpg?w=1119&h=1019" group-title="Movistar Peru",CONECTA 2 TV
 https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171644.jpg?w=1119&h=1019" group-title="Movistar Lista",TL LIMA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171644.jpg?w=1119&h=1019" group-title="Movistar Peru",TL LIMA
 http://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173076.jpg?w=1119&h=1019" group-title="Movistar Lista",PBO
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173076.jpg?w=1119&h=1019" group-title="Movistar Peru",PBO
 http://live-evg25.tv360.bitel.com.pe:80/bitel/pbo/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714059582.jpg?w=1119&h=1019" group-title="Movistar Lista",LIKE TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714059582.jpg?w=1119&h=1019" group-title="Movistar Peru",LIKE TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/fuegotv.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171685.jpg?w=1119&h=1019" group-title="Movistar Lista",TRIVU
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171685.jpg?w=1119&h=1019" group-title="Movistar Peru",TRIVU
 http://bantel-cdn1.iptvperu.tv:1935/miscelaneos/trivu.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173067.jpg?w=1119&h=1019" group-title="Movistar Lista",CANAL B
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173067.jpg?w=1119&h=1019" group-title="Movistar Peru",CANAL B
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/CanalB.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171787.jpg?w=1119&h=1019" group-title="Movistar Lista",NACIONAL TV PERU
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171787.jpg?w=1119&h=1019" group-title="Movistar Peru",NACIONAL TV PERU
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/NacionalTV_Peru.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725898108.jpg?w=1119&h=1019" group-title="Movistar Lista",NEO TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725898108.jpg?w=1119&h=1019" group-title="Movistar Peru",NEO TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/DigitalTV/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173116.jpg?w=1119&h=1019" group-title="Movistar Lista",TV PERU NOTICIAS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173116.jpg?w=1119&h=1019" group-title="Movistar Peru",TV PERU NOTICIAS
 http://bantel-cdn1.iptvperu.tv:1935/cdnery/tvperunoticias.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703175106.jpg?w=1119&h=1019" group-title="Movistar Lista",ANTENA UNO
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703175106.jpg?w=1119&h=1019" group-title="Movistar Peru",ANTENA UNO
 http://bantel-cdn1.iptvperu.tv:1935/cdnmwt/antenauno/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714065440.jpg?w=1119&h=1019" group-title="Movistar Lista",CBN TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714065440.jpg?w=1119&h=1019" group-title="Movistar Peru",CBN TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnpgh/CBN.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1720631561.jpg?w=1119&h=1019" group-title="Movistar Lista",VIO TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1720631561.jpg?w=1119&h=1019" group-title="Movistar Peru",VIO TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/tiempotv.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1706037328.jpg?w=1119&h=1019" group-title="Movistar Lista",CANAL EL CONGRESO
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1706037328.jpg?w=1119&h=1019" group-title="Movistar Peru",CANAL EL CONGRESO
 http://bantel-cdn1.iptvperu.tv:1935/cdndin/canaldelcongreso/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708616907.jpg?w=1119&h=1019" group-title="Movistar Lista",BHTV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708616907.jpg?w=1119&h=1019" group-title="Movistar Peru",BHTV
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/BHTV.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1709069470.jpg?w=1119&h=1019" group-title="Movistar Lista",SANTA ROSA TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1709069470.jpg?w=1119&h=1019" group-title="Movistar Peru",SANTA ROSA TV
 http://bantel-cdn1.iptvperu.tv:1935/cdndin/SantaRosaTV.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714059922.jpg?w=1119&h=1019" group-title="Movistar Lista",VOZ PERU TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714059922.jpg?w=1119&h=1019" group-title="Movistar Peru",VOZ PERU TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/vozperutv.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716849958.jpg?w=1119&h=1019" group-title="Movistar Lista",MILENIAL TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716849958.jpg?w=1119&h=1019" group-title="Movistar Peru",MILENIAL TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/milenialtv.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1720192399.jpg?w=1119&h=1019" group-title="Movistar Lista",RPP
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1720192399.jpg?w=1119&h=1019" group-title="Movistar Peru",RPP
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/RPP/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718748825.jpg?w=1119&h=1019" group-title="Movistar Lista",GAMARRA CHANNEL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718748825.jpg?w=1119&h=1019" group-title="Movistar Peru",GAMARRA CHANNEL
 http://bantel-cdn1.iptvperu.tv:1935/cdnthk/GamarraChannel/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718748843.jpg?w=1119&h=1019" group-title="Movistar Lista",ASIRI TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718748843.jpg?w=1119&h=1019" group-title="Movistar Peru",ASIRI TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnthk/AsiriTV/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176000.jpg?w=1119&h=1019" group-title="Movistar Lista",CINE PREMIUM
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176000.jpg?w=1119&h=1019" group-title="Movistar Peru",CINE PREMIUM
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/cinepremium/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176011.jpg?w=1119&h=1019" group-title="Movistar Lista",CINE FAMILIAR
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176011.jpg?w=1119&h=1019" group-title="Movistar Peru",CINE FAMILIAR
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/cinefamiliar/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176023.jpg?w=1119&h=1019" group-title="Movistar Lista",CINE HISPANO
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176023.jpg?w=1119&h=1019" group-title="Movistar Peru",CINE HISPANO
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/cinehispano/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176075.jpg?w=1119&h=1019" group-title="Movistar Lista",CINECANAL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176075.jpg?w=1119&h=1019" group-title="Movistar Peru",CINECANAL
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/cinecanal/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176084.jpg?w=1119&h=1019" group-title="Movistar Lista",UNIVERSAL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176084.jpg?w=1119&h=1019" group-title="Movistar Peru",UNIVERSAL
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/universalchannel/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176094.jpg?w=1119&h=1019" group-title="Movistar Lista",CLASSIC
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176094.jpg?w=1119&h=1019" group-title="Movistar Peru",CLASSIC
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Classic/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176110.jpg?w=1119&h=1019" group-title="Movistar Lista",FMH MOVIES
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176110.jpg?w=1119&h=1019" group-title="Movistar Peru",FMH MOVIES
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/FMH_Movies/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176251.jpg?w=1119&h=1019" group-title="Movistar Lista",DHE
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176251.jpg?w=1119&h=1019" group-title="Movistar Peru",DHE
 http://bantel-cdn1.iptvperu.tv:1935/transcoder5_cdnjry/dhe.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176266.jpg?w=1119&h=1019" group-title="Movistar Lista",PARAMOUNT
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176266.jpg?w=1119&h=1019" group-title="Movistar Peru",PARAMOUNT
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/paramount/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176274.jpg?w=1119&h=1019" group-title="Movistar Lista",AXN
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176274.jpg?w=1119&h=1019" group-title="Movistar Peru",AXN
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/axn/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176511.jpg?w=1119&h=1019" group-title="Movistar Lista",GOLDEN
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176511.jpg?w=1119&h=1019" group-title="Movistar Peru",GOLDEN
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Golden/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176428.jpg?w=1119&h=1019" group-title="Movistar Lista",SONY MOVIES
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176428.jpg?w=1119&h=1019" group-title="Movistar Peru",SONY MOVIES
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/sonymovies/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176438.jpg?w=1119&h=1019" group-title="Movistar Lista",FX
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176438.jpg?w=1119&h=1019" group-title="Movistar Peru",FX
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/FX/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176226.jpg?w=1119&h=1019" group-title="Movistar Lista",MYTIME TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176226.jpg?w=1119&h=1019" group-title="Movistar Peru",MYTIME TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Mytime.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176447.jpg?w=1119&h=1019" group-title="Movistar Lista",STUDIO UNIVERSAL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176447.jpg?w=1119&h=1019" group-title="Movistar Peru",STUDIO UNIVERSAL
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/studiouniversal/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714059275.jpg?w=1119&h=1019" group-title="Movistar Lista",CINEMA LATINO
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714059275.jpg?w=1119&h=1019" group-title="Movistar Peru",CINEMA LATINO
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/AZ_Cinema/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716219691.jpg?w=1119&h=1019" group-title="Movistar Lista",BBO SIGNATURE
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716219691.jpg?w=1119&h=1019" group-title="Movistar Peru",BBO SIGNATURE
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/hbosignature/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716907377.jpg?w=1119&h=1019" group-title="Movistar Lista",CNN ESPANOL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716907377.jpg?w=1119&h=1019" group-title="Movistar Peru",CNN ESPANOL
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/cnnespanol/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322150.jpg?w=1119&h=1019" group-title="Movistar Lista",CINEMAS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322150.jpg?w=1119&h=1019" group-title="Movistar Peru",CINEMAS
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/cinemax.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714057260.jpg?w=1119&h=1019" group-title="Movistar Lista",BEIN SPORTS XTRA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714057260.jpg?w=1119&h=1019" group-title="Movistar Peru",BEIN SPORTS XTRA
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/bein_sports_Xtra/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1715120799.jpg?w=1119&h=1019" group-title="Movistar Lista",BBO
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1715120799.jpg?w=1119&h=1019" group-title="Movistar Peru",BBO
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/HBO/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1715120836.jpg?w=1119&h=1019" group-title="Movistar Lista",BBO 2
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1715120836.jpg?w=1119&h=1019" group-title="Movistar Peru",BBO 2
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/HBO2/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1715120180.jpg?w=1119&h=1019" group-title="Movistar Lista",BBO FAMILY
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1715120180.jpg?w=1119&h=1019" group-title="Movistar Peru",BBO FAMILY
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/HBO_Family/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1715120298.jpg?w=1119&h=1019" group-title="Movistar Lista",BBO XTREME
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1715120298.jpg?w=1119&h=1019" group-title="Movistar Peru",BBO XTREME
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/HBO_Xtreme/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1715120399.jpg?w=1119&h=1019" group-title="Movistar Lista",BTYC SPORTS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1715120399.jpg?w=1119&h=1019" group-title="Movistar Peru",BTYC SPORTS
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/BTYC_Sports/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322204.jpg?w=1119&h=1019" group-title="Movistar Lista",TNT SPORTS 2
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322204.jpg?w=1119&h=1019" group-title="Movistar Peru",TNT SPORTS 2
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/tntsports2/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716328287.jpg?w=1119&h=1019" group-title="Movistar Lista",BBO PLUS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716328287.jpg?w=1119&h=1019" group-title="Movistar Peru",BBO PLUS
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/hboplus/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322336.jpg?w=1119&h=1019" group-title="Movistar Lista",UNIVERSAL CINEMA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322336.jpg?w=1119&h=1019" group-title="Movistar Peru",UNIVERSAL CINEMA
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/universalcinema/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322411.jpg?w=1119&h=1019" group-title="Movistar Lista",UNIVERSAL REALITY
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322411.jpg?w=1119&h=1019" group-title="Movistar Peru",UNIVERSAL REALITY
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/universalreality/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322437.jpg?w=1119&h=1019" group-title="Movistar Lista",UNIVERSAL COMEDY
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322437.jpg?w=1119&h=1019" group-title="Movistar Peru",UNIVERSAL COMEDY
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/universalcomedy/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322462.jpg?w=1119&h=1019" group-title="Movistar Lista",UNIVERSAL CRIME
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322462.jpg?w=1119&h=1019" group-title="Movistar Peru",UNIVERSAL CRIME
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/universalcrime/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322614.jpg?w=1119&h=1019" group-title="Movistar Lista",TNT
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322614.jpg?w=1119&h=1019" group-title="Movistar Peru",TNT
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/tnt/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322634.jpg?w=1119&h=1019" group-title="Movistar Lista",TNT NOVELAS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322634.jpg?w=1119&h=1019" group-title="Movistar Peru",TNT NOVELAS
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/tntnovelas/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716932483.jpg?w=1119&h=1019" group-title="Movistar Lista",CARTOON NETWORK
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716932483.jpg?w=1119&h=1019" group-title="Movistar Peru",CARTOON NETWORK
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/cartoonnetwork/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716932508.jpg?w=1119&h=1019" group-title="Movistar Lista",TNT SPORTS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716932508.jpg?w=1119&h=1019" group-title="Movistar Peru",TNT SPORTS
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/tntsports1/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725312597.jpg?w=1119&h=1019" group-title="Movistar Lista",TNT SERIES
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725312597.jpg?w=1119&h=1019" group-title="Movistar Peru",TNT SERIES
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/TntSeries.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725312869.jpg?w=1119&h=1019" group-title="Movistar Lista",ANIMAL PLANET
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725312869.jpg?w=1119&h=1019" group-title="Movistar Peru",ANIMAL PLANET
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/animalplanet.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313054.jpg?w=1119&h=1019" group-title="Movistar Lista",SPACE
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313054.jpg?w=1119&h=1019" group-title="Movistar Peru",SPACE
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313117.jpg?w=1119&h=1019" group-title="Movistar Lista",COMEDY CENTRAL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313117.jpg?w=1119&h=1019" group-title="Movistar Peru",COMEDY CENTRAL
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/comedy.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313210.jpg?w=1119&h=1019" group-title="Movistar Lista",A3 SERIES
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313210.jpg?w=1119&h=1019" group-title="Movistar Peru",A3 SERIES
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/a3series.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703174174.jpg?w=1119&h=1019" group-title="Movistar Lista",NAT GEO
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703174174.jpg?w=1119&h=1019" group-title="Movistar Peru",NAT GEO
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/NatGeo/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703174199.jpg?w=1119&h=1019" group-title="Movistar Lista",HISTORY 2
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703174199.jpg?w=1119&h=1019" group-title="Movistar Peru",HISTORY 2
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/History2/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703174192.jpg?w=1119&h=1019" group-title="Movistar Lista",HISTORY
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703174192.jpg?w=1119&h=1019" group-title="Movistar Peru",HISTORY
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/History/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703174182.jpg?w=1119&h=1019" group-title="Movistar Lista",LOVE NATURE
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703174182.jpg?w=1119&h=1019" group-title="Movistar Peru",LOVE NATURE
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/lovenature_principal/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173952.jpg?w=1119&h=1019" group-title="Movistar Lista",BASQUET TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173952.jpg?w=1119&h=1019" group-title="Movistar Peru",BASQUET TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnalh/basket.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173952.jpg?w=1119&h=1019" group-title="Movistar Lista",L1MAX
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173952.jpg?w=1119&h=1019" group-title="Movistar Peru",L1MAX
 http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/304162.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173952.jpg?w=1119&h=1019" group-title="Movistar Lista",L1
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173952.jpg?w=1119&h=1019" group-title="Movistar Peru",L1
 http://offshore.lat:8080/live/changeESUS@/7QcXgwrCWfYv/304161.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173952.jpg?w=1119&h=1019" group-title="Movistar Lista",DSports
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173952.jpg?w=1119&h=1019" group-title="Movistar Peru",DSports
 http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/294582.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173969.jpg?w=1119&h=1019" group-title="Movistar Lista",OVACIÓN
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173969.jpg?w=1119&h=1019" group-title="Movistar Peru",OVACIÓN
 https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg?w=1119&h=1019" group-title="Movistar Lista",ESPN
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg?w=1119&h=1019" group-title="Movistar Peru",ESPN
 https://bantel-cdn1.iptvperu.tv:1936/cdnalh/ESPN.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg?w=1119&h=1019" group-title="Movistar Lista",ESPN 2
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg?w=1119&h=1019" group-title="Movistar Peru",ESPN 2
 http://bantel-cdn1.iptvperu.tv:1935/cdnalh/ESPN2.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122257.jpg?w=1119&h=1019" group-title="Movistar Lista",ESPN 3
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122257.jpg?w=1119&h=1019" group-title="Movistar Peru",ESPN 3
 http://bantel-cdn1.iptvperu.tv:1935/cdnalh/espn3/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122309.jpg?w=1119&h=1019" group-title="Movistar Lista",ESPN 5
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122309.jpg?w=1119&h=1019" group-title="Movistar Peru",ESPN 5
 http://bantel-cdn1.iptvperu.tv:1935/cdnalh/espn5/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122275.jpg?w=1119&h=1019" group-title="Movistar Lista",ESPN 4
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122275.jpg?w=1119&h=1019" group-title="Movistar Peru",ESPN 4
 http://bantel-cdn1.iptvperu.tv:1935/cdnalh/Espn4.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122338.jpg?w=1119&h=1019" group-title="Movistar Lista",ESPN 7
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122338.jpg?w=1119&h=1019" group-title="Movistar Peru",ESPN 7
 http://bantel-cdn1.iptvperu.tv:1935/cdnalh/espn7.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122324.jpg?w=1119&h=1019" group-title="Movistar Lista",ESPN 6
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122324.jpg?w=1119&h=1019" group-title="Movistar Peru",ESPN 6
 http://bantel-cdn1.iptvperu.tv:1935/cdnalh/espn6/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718127893.jpg?w=1119&h=1019" group-title="Movistar Lista",PANAVISION
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718127893.jpg?w=1119&h=1019" group-title="Movistar Peru",PANAVISION
 http://bantel-cdn1.iptvperu.tv:1935/cdnjmk/panavision.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718127775.jpg?w=1119&h=1019" group-title="Movistar Lista",E SPORTS GO
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718127775.jpg?w=1119&h=1019" group-title="Movistar Peru",E SPORTS GO
 http://bantel-cdn1.iptvperu.tv:1935/cdnjmk/esportgo.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714058513.jpg?w=1119&h=1019" group-title="Movistar Lista",AZ SPORTS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714058513.jpg?w=1119&h=1019" group-title="Movistar Peru",AZ SPORTS
 http://bantel-cdn1.iptvperu.tv:1935/cdnalh/Az_Deportes/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322230.jpg?w=1119&h=1019" group-title="Movistar Lista",GOL TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322230.jpg?w=1119&h=1019" group-title="Movistar Peru",GOL TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnalh/goltv.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173374.jpg?w=1119&h=1019" group-title="Movistar Lista",CANAL INFANTIL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173374.jpg?w=1119&h=1019" group-title="Movistar Peru",CANAL INFANTIL
 http://bantel-cdn1.iptvperu.tv:1935/cdnpgh/canalinfantil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173405.jpg?w=1119&h=1019" group-title="Movistar Lista",IPE
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173405.jpg?w=1119&h=1019" group-title="Movistar Peru",IPE
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/ipe.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173526.jpg?w=1119&h=1019" group-title="Movistar Lista",NICK JR
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173526.jpg?w=1119&h=1019" group-title="Movistar Peru",NICK JR
 http://bantel-cdn1.iptvperu.tv:1935/cdnpgh/nick_jr/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173534.jpg?w=1119&h=1019" group-title="Movistar Lista",NICK
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173534.jpg?w=1119&h=1019" group-title="Movistar Peru",NICK
 http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nick/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173383.jpg?w=1119&h=1019" group-title="Movistar Lista",FMH KIDS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173383.jpg?w=1119&h=1019" group-title="Movistar Peru",FMH KIDS
 http://bantel-cdn1.iptvperu.tv:1935/cdnpgh/FMH_Kids/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173542.jpg?w=1119&h=1019" group-title="Movistar Lista",DISNEY CHANNEL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173542.jpg?w=1119&h=1019" group-title="Movistar Peru",DISNEY CHANNEL
 http://bantel-cdn1.iptvperu.tv:1935/cdnpgh/disneychannel/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173552.jpg?w=1119&h=1019" group-title="Movistar Lista",DISNEY JR
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173552.jpg?w=1119&h=1019" group-title="Movistar Peru",DISNEY JR
 http://bantel-cdn1.iptvperu.tv:1935/cdnpgh/disney_jr/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173563.jpg?w=1119&h=1019" group-title="Movistar Lista",NICK TEEN
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173563.jpg?w=1119&h=1019" group-title="Movistar Peru",NICK TEEN
 http://bantel-cdn1.iptvperu.tv:1935/cdnpgh/nickteen/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173573.jpg?w=1119&h=1019" group-title="Movistar Lista",DREAMWORKS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173573.jpg?w=1119&h=1019" group-title="Movistar Peru",DREAMWORKS
 http://bantel-cdn1.iptvperu.tv:1935/cdnpgh/dreamworkds.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173433.jpg?w=1119&h=1019" group-title="Movistar Lista",DM KIDSTV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173433.jpg?w=1119&h=1019" group-title="Movistar Peru",DM KIDSTV
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/DM_Kids.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714059541.jpg?w=1119&h=1019" group-title="Movistar Lista",DIOS TV KIDS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714059541.jpg?w=1119&h=1019" group-title="Movistar Peru",DIOS TV KIDS
 http://bantel-cdn1.iptvperu.tv:1935/cdnpgh/DIOSTVKID/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173016.jpg?w=1119&h=1019" group-title="Movistar Lista",RT ESPAÑOL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173016.jpg?w=1119&h=1019" group-title="Movistar Peru",RT ESPAÑOL
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/RTESPANOL.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176540.jpg?w=1119&h=1019" group-title="Movistar Lista",UCL
+#EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176540.jpg?w=1119&h=1019" group-title="Movistar Peru",UCL
 http://bantel-cdn1.iptvperu.tv:1935/cdnygz/ucl.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176581.jpg?w=1119&h=1019" group-title="Movistar Lista",CNC MEDELLIN
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176581.jpg?w=1119&h=1019" group-title="Movistar Peru",CNC MEDELLIN
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/cnc.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173046.jpg?w=1119&h=1019" group-title="Movistar Lista",TELESUR
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173046.jpg?w=1119&h=1019" group-title="Movistar Peru",TELESUR
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/telesur.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173029.jpg?w=1119&h=1019" group-title="Movistar Lista",DW ESPAÑOL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173029.jpg?w=1119&h=1019" group-title="Movistar Peru",DW ESPAÑOL
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/DW.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176532.jpg?w=1119&h=1019" group-title="Movistar Lista",SURAM
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176532.jpg?w=1119&h=1019" group-title="Movistar Peru",SURAM
 http://bantel-cdn1.iptvperu.tv:1935/cdnygz/suramtv.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1724078133.png?w=225&h=224" group-title="Movistar Lista",AGROTENDENCIA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1724078133.png?w=225&h=224" group-title="Movistar Peru",AGROTENDENCIA
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/tvagro.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703186735.jpg?w=1119&h=1019" group-title="Movistar Lista",JUNTOS TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703186735.jpg?w=1119&h=1019" group-title="Movistar Peru",JUNTOS TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Juntos.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176573.jpg?w=1119&h=1019" group-title="Movistar Lista",UCT TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176573.jpg?w=1119&h=1019" group-title="Movistar Peru",UCT TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/UCT.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176590.jpg?w=1119&h=1019" group-title="Movistar Lista",ZARACAY TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176590.jpg?w=1119&h=1019" group-title="Movistar Peru",ZARACAY TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Zaracay.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718467599.jpg?w=1119&h=1019" group-title="Movistar Lista",HOUSE TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1718467599.jpg?w=1119&h=1019" group-title="Movistar Peru",HOUSE TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/hogartv.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173058.jpg?w=1119&h=1019" group-title="Movistar Lista",FRANCE 24
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173058.jpg?w=1119&h=1019" group-title="Movistar Peru",FRANCE 24
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/France24-ES/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1724184607.jpg?w=180&h=180" group-title="Movistar Lista",GUATEVISION
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1724184607.jpg?w=180&h=180" group-title="Movistar Peru",GUATEVISION
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Guatevision.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173095.jpg?w=1119&h=1019" group-title="Movistar Lista",HISPAN TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173095.jpg?w=1119&h=1019" group-title="Movistar Peru",HISPAN TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/hispanotv.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176737.jpg?w=1119&h=1019" group-title="Movistar Lista",TV CARIOCA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176737.jpg?w=1119&h=1019" group-title="Movistar Peru",TV CARIOCA
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/TV_Carioca/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714059100.jpg?w=1119&h=1019" group-title="Movistar Lista",VIVO AZ
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714059100.jpg?w=1119&h=1019" group-title="Movistar Peru",VIVO AZ
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/AZ_Internacional/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714058962.jpg?w=1119&h=1019" group-title="Movistar Lista",CABLE NOTICIAS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714058962.jpg?w=1119&h=1019" group-title="Movistar Peru",CABLE NOTICIAS
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/cablenoticias/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714058557.jpg?w=1119&h=1019" group-title="Movistar Lista",TV BELLA ASUCIÓN
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714058557.jpg?w=1119&h=1019" group-title="Movistar Peru",TV BELLA ASUCIÓN
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/tvbellaasucion/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322714.jpg?w=1119&h=1019" group-title="Movistar Lista",EL GOURMET
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322714.jpg?w=1119&h=1019" group-title="Movistar Peru",EL GOURMET
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/elgourmet.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725310641.jpg?w=1119&h=1019" group-title="Movistar Lista",DIASPORA TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725310641.jpg?w=1119&h=1019" group-title="Movistar Peru",DIASPORA TV
 http://bantel-cdn1.iptvperu.tv:1935/bantel/diaspora.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725310743.jpg?w=1119&h=1019" group-title="Movistar Lista",CGTN ESPAÑOL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725310743.jpg?w=1119&h=1019" group-title="Movistar Peru",CGTN ESPAÑOL
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/CGTNESPANOL.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725310712.jpg?w=1119&h=1019" group-title="Movistar Lista",CANAL 12 URUGUAY
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725310712.jpg?w=1119&h=1019" group-title="Movistar Peru",CANAL 12 URUGUAY
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/canal12uruguay.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725310680.jpg?w=1119&h=1019" group-title="Movistar Lista",CANAL 4 URUGUAY
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725310680.jpg?w=1119&h=1019" group-title="Movistar Peru",CANAL 4 URUGUAY
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/canal4uruguay.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172779.jpg?w=1119&h=1019" group-title="Movistar Lista",TOP LATINO
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172779.jpg?w=1119&h=1019" group-title="Movistar Peru",TOP LATINO
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172739.jpg?w=1119&h=1019" group-title="Movistar Lista",USMP TV MUSICA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172739.jpg?w=1119&h=1019" group-title="Movistar Peru",USMP TV MUSICA
 http://bantel-cdn1.iptvperu.tv:1935/cdnjgk/usmptv_musica.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172769.jpg?w=1119&h=1019" group-title="Movistar Lista",KARIBEÑA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172769.jpg?w=1119&h=1019" group-title="Movistar Peru",KARIBEÑA
 http://bantel-cdn1.iptvperu.tv:1935/cdnjgk/karibena.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172809.jpg?w=1119&h=1019" group-title="Movistar Lista",MIMUSICA REGGAETON
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172809.jpg?w=1119&h=1019" group-title="Movistar Peru",MIMUSICA REGGAETON
 http://bantel-cdn1.iptvperu.tv:1935/cdnjgk/mimusicareggaeton/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172817.jpg?w=1119&h=1019" group-title="Movistar Lista",MIMUSICA ROMANTICA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172817.jpg?w=1119&h=1019" group-title="Movistar Peru",MIMUSICA ROMANTICA
 http://bantel-cdn1.iptvperu.tv:1935/cdnjgk/mimusicaromantica/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172826.jpg?w=1119&h=1019" group-title="Movistar Lista",MIMUSICA SALSA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172826.jpg?w=1119&h=1019" group-title="Movistar Peru",MIMUSICA SALSA
 http://bantel-cdn1.iptvperu.tv:1935/cdnjgk/mimusicasalsa/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172788.jpg?w=1119&h=1019" group-title="Movistar Lista",MIMUSICA PERÚ
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172788.jpg?w=1119&h=1019" group-title="Movistar Peru",MIMUSICA PERÚ
 http://bantel-cdn1.iptvperu.tv:1935/cdnjgk/mimusicaperu/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172845.jpg?w=1119&h=1019" group-title="Movistar Lista",RADIO ONDA DIGITAL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172845.jpg?w=1119&h=1019" group-title="Movistar Peru",RADIO ONDA DIGITAL
 http://bantel-cdn1.iptvperu.tv:1935/cdnjgk/Radio_Onda_Digital/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172836.jpg?w=1119&h=1019" group-title="Movistar Lista",TROPICAL MOON- CUMBIA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172836.jpg?w=1119&h=1019" group-title="Movistar Peru",TROPICAL MOON- CUMBIA
 http://bantel-cdn1.iptvperu.tv:1935/cdnalh/Cumbia-TropicalMoon.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1712672240.jpg?w=225&h=225" group-title="Movistar Lista",TU RUMBA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1712672240.jpg?w=225&h=225" group-title="Movistar Peru",TU RUMBA
 http://bantel-cdn1.iptvperu.tv:1935/cdnjgk/rumbatv.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172859.jpg?w=1119&h=1019" group-title="Movistar Lista",MIX MUSICA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703172859.jpg?w=1119&h=1019" group-title="Movistar Peru",MIX MUSICA
 http://bantel-cdn1.iptvperu.tv:1935/astralocal/MixMusica/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714057303.jpg?w=1119&h=1019" group-title="Movistar Lista",RADIO RECUERDOS RETRO TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714057303.jpg?w=1119&h=1019" group-title="Movistar Peru",RADIO RECUERDOS RETRO TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnjgk/radiorecuerdos/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1717516601.jpg?w=1119&h=1019" group-title="Movistar Lista",VM LATINO
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1717516601.jpg?w=1119&h=1019" group-title="Movistar Peru",VM LATINO
 https://live-evg25.tv360.bitel.com.pe/bitel/vmlatino/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173917.jpg?w=1119&h=1019" group-title="Movistar Lista",TLNOVELAS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173917.jpg?w=1119&h=1019" group-title="Movistar Peru",TLNOVELAS
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/TL_Novelas/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173901.jpg?w=1119&h=1019" group-title="Movistar Lista",KANAL D DRAMA
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173901.jpg?w=1119&h=1019" group-title="Movistar Peru",KANAL D DRAMA
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/KanalD/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322485.jpg?w=1119&h=1019" group-title="Movistar Lista",PASIONES
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322485.jpg?w=1119&h=1019" group-title="Movistar Peru",PASIONES
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/pasiones.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173771.jpg?w=1119&h=1019" group-title="Movistar Lista",MTV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173771.jpg?w=1119&h=1019" group-title="Movistar Peru",MTV
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/MTV/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173779.jpg?w=1119&h=1019" group-title="Movistar Lista",LIFETIME
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173779.jpg?w=1119&h=1019" group-title="Movistar Peru",LIFETIME
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/lifetime/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173820.jpg?w=1119&h=1019" group-title="Movistar Lista",TELEMUNDO
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173820.jpg?w=1119&h=1019" group-title="Movistar Peru",TELEMUNDO
 http://bantel-cdn1.iptvperu.tv:1935/cdnmir/telemundo.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173855.jpg?w=1119&h=1019" group-title="Movistar Lista",A&E
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173855.jpg?w=1119&h=1019" group-title="Movistar Peru",A&E
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/aye/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173787.jpg?w=1119&h=1019" group-title="Movistar Lista",ENTERTAINMENT
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173787.jpg?w=1119&h=1019" group-title="Movistar Peru",ENTERTAINMENT
 http://bantel-cdn1.iptvperu.tv:1935/cdnmir/entertainment.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173863.jpg?w=1119&h=1019" group-title="Movistar Lista",CANAL LAS ESTRELLAS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173863.jpg?w=1119&h=1019" group-title="Movistar Peru",CANAL LAS ESTRELLAS
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Canal_LasEstrellas/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173812.jpg?w=1119&h=1019" group-title="Movistar Lista",SONY CHANNEL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173812.jpg?w=1119&h=1019" group-title="Movistar Peru",SONY CHANNEL
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/sonychannel/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173829.jpg?w=1119&h=1019" group-title="Movistar Lista",MATICES
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173829.jpg?w=1119&h=1019" group-title="Movistar Peru",MATICES
 http://bantel-cdn1.iptvperu.tv:1935/Bantel/liga/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173848.jpg?w=1119&h=1019" group-title="Movistar Lista",STAR CHANNEL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173848.jpg?w=1119&h=1019" group-title="Movistar Peru",STAR CHANNEL
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/StarChannel.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173796.jpg?w=1119&h=1019" group-title="Movistar Lista",UNIVISION
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173796.jpg?w=1119&h=1019" group-title="Movistar Peru",UNIVISION
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Univision/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714058645.jpg?w=1119&h=1019" group-title="Movistar Lista",FASHION CLIC
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1714058645.jpg?w=1119&h=1019" group-title="Movistar Peru",FASHION CLIC
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/AZ_Clic/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173839.jpg?w=1119&h=1019" group-title="Movistar Lista",SYFY
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173839.jpg?w=1119&h=1019" group-title="Movistar Peru",SYFY
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/SYFY.stream/playlist.m3u8
 
 
