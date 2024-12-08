@@ -2736,7 +2736,11 @@ https://delivery.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 
 
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171265.jpg?w=1119&h=1019" group-title="Movistar Peru",WILLAX
+
+
+
+
+#EXTINF:-1   group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Movistar_isotype_2020.svg/800px-Movistar_isotype_2020.svg.png" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171265.jpg?w=1119&h=1019" group-title="Movistar Peru",WILLAX
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171281.jpg?w=1119&h=1019" group-title="Movistar Peru",LATINA
