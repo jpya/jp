@@ -3316,7 +3316,7 @@ https://4.trstream01.xyz/canal6/stream.m3u8
 
 
 
-#EXTINF:-1 group-logo="-" group-title="DEPORTES ESPECIALES" tvg-logo="https://ik.imagekit.io/l4n1xgr1s/blog/images/universo.jpg", UNIVERSO
+#EXTINF:-1 group-logo="https://cdn.prod.website-files.com/646f6d98a49f296e79bc4db3/64b58e81b6003d7a11a0d3f1_special-olympics.png" group-title="DEPORTES ESPECIALES" tvg-logo="https://ik.imagekit.io/l4n1xgr1s/blog/images/universo.jpg", UNIVERSO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
