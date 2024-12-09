@@ -3722,3 +3722,103 @@ http://cdn.adultiptv.net/rough.m3u8
 
 
 
+
+------------------------------------------------------RADIOS-----------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",1 🟢🟢🟢 PUNTO DE ENCUENTRO PORTEÑA 🟢🟢🟢 (🇦🇷)
+https://radio16.servidorderadio.net:8662/stream
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",LA 100 (🇦🇷)
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO MITRE (🇦🇷)
+https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56.mp3
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",ASPEN 102.3 (🇦🇷)
+https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",LA RED(🇦🇷) 
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RIVADAVIA (🇦🇷)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",BLUE FM 100.7(🇦🇷) 
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO DEL SUR(🇦🇷) 
+https://cnnsanjuan.com:9999/icecast/radiodelsuraudio/icecast.audio
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",LOS 40 PRINCIPALES (🇦🇷)
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC.aac
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO DISNEY (🇦🇷)
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM ROCK & POP (🇦🇷) 
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",POP RADIO  101.5 (🇦🇷)
+https://popradio.stweb.tv/popradio/live/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO MIA (🇦🇷)
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56AAC.aac
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",CADENA TRES (🇦🇷)
+https://liveradio.mediainbox.net/radio3.mp3
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",URBANA PLAY(🇦🇷) 
+https://vmf.edge-apps.net/playlist/urbana.m3u8/play.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO 10 (🇦🇷)
+https://radio10.stweb.tv/radio10/live/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO NACIONAL (🇦🇷)
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",VALE 97.5 (🇦🇷)
+https://vale.stweb.tv/vale/live/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",AM 750 (🇦🇷)
+https://mdstrm.com/audio/6237761f64b72676f05cf6ab/live.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO POPULAR (🇦🇷)
+https://liveradio.mediainbox.net/popular.mp3
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO CON VOS(🇦🇷) 
+https://server1.stweb.tv/rcvos/live/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",AM 530 (🇦🇷)
+https://ipanel.instream.audio:7000/stream
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",EL DESTAPE (🇦🇷) RADIO
+https://ipanel.instream.audio/8004/stream
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM CORDOBA (🇦🇷)
+https://liveradio.mediainbox.net/fmcordoba.mp3
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",METRO 95.1 (🇦🇷)
+https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO CIELO (🇦🇷)
+https://streamall.alsolnet.com/radiocielo
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",RADIO BELGRANO SUARDI (🇦🇷)
+https://pad20.com:8310/vivo
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM 95.5 MORTEROS (🇦🇷)
+https://edge-st1-audio.masterhost.com.ar/listen/radio_republica_955/radio.mp3
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",FM 102.9 BRINKMAN (🇦🇷)
+https://servidor2.hostradios.com/proxy/sc_larad?mp=/stream
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png" group-title="RADIOS ONLINE",AM 1050 SAN FRANCISCO (🇦🇷)
+https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
+
+
+
+
+
