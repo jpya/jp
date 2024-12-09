@@ -4704,11 +4704,17 @@ https://webhdrus.onlinehdhls.ru/lb/premium426/index.m3u8|Origin=https://webliveh
 https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
+#EXTINF:-1  group-logo="-"  tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1.png" group-title="...DADDY LIVE", ELEVEN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium71/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
 
-
-
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="...DADDY LIVE", TUDN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium66/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
 
