@@ -1355,10 +1355,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argen
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/671/CH_LOGO/60/40/0/0/157201010711.png" group-title="... FLOW" ,#️⃣ Canal Rural
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2b0364a95feb428933fd2396e99b187:b301ecdcc386fc4dc59e8ad547bbcd3c
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/BcnO8OdAylM/maxresdefault.jpg" group-title="... FLOW"  ,#️⃣ Chacra TV
-https://chromecast.cvattv.com.ar/live/c3eds/Chacra_TV/SA_Live_dash_enc/Chacra_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
@@ -2311,7 +2307,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
-#EXTINF:-1  tvg-logo="-" group-title="... FLOW"  ,🌐 Telefe Córdoba
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="... FLOW"  ,🌐 Telefe Córdoba
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd
 
 
