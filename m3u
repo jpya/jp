@@ -3659,9 +3659,6 @@ VENUS
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
 
 
-#EXTINF:-1 , tvg-logo="https://www.egesat.de/media/image/product/10918/md/redlight-elite-hd-9-sender-viaccess-12-monate-redlighthd-hustlerhd-auf-hotbird-in-viaccess.jpg" group-title="🔐 ADULTOS", 347 RED LIGHT HD
-https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_premium.smil/manifest.m3u8
-
 #EXTINF:-1 group-title="🔐 ADULTOS" tvg-logo="https://www.m3u.cl/logo/943_Live_Cams.png",348 Live Cams  | US (🇺🇸)
 http://cdn.adultiptv.net/livecams.m3u8
 
