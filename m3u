@@ -4392,39 +4392,39 @@ http://179.189.222.226:8000/play/ch16
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch21
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,🐾 Discovery
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png" ,🐾 Discovery
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch22
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,🐾 Discovery turbo
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.flow.com.ar/images/641/CH_LOGO/60/40/0/0/52117167073223.png" ,🐾 Discovery turbo
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch24
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,🐾 Discovery h&h
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.flow.com.ar/images/272/CH_LOGO/60/40/0/0/84821268072218.png" ,🐾 Discovery h&h
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch25
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,Gourmet
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.flow.com.ar/images/295/CH_LOGO/60/40/0/0/9907571507125.png" ,Gourmet
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch27
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,🐾 history
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.flow.com.ar/images/301/CH_LOGO/60/40/0/0/68362124075201.png" ,🐾 history
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch30
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,💞 pasiones
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.flow.com.ar/images/6619/CH_LOGO/60/40/0/0/93318670071976.png" ,💞 pasiones
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch35
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,💞 telenovelas
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.flow.com.ar/images/9737/CH_LOGO/60/40/0/0/3871340007170.png" ,💞 telenovelas
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch45
