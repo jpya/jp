@@ -3829,7 +3829,7 @@ https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03s/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://seeklogo.com/images/A/atv-logo-D6D16EB2D1-seeklogo.com.png" ,ATV
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://seeklogo.com/images/A/atv-logo-D6D16EB2D1-seeklogo.com.png" ,#️⃣ ATV
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04a/index.m3u8
@@ -3839,22 +3839,22 @@ http://181.78.27.128:8000/play/a04a/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a033/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFnYypcCifV4uGjQ7qVHBnaiVJLnOo18b5o6heeVQSb9yM19osnTKFqOnG7SdWfdpdlg&usqp=CAU"  ,Abc Tv
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFnYypcCifV4uGjQ7qVHBnaiVJLnOo18b5o6heeVQSb9yM19osnTKFqOnG7SdWfdpdlg&usqp=CAU"  ,#️⃣ Abc Tv
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05r/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"  ,America TV
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"  ,#️⃣   America TV
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05z/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"  ,America TV 
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"  ,#️⃣   America TV 
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04f/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Am%C3%A9rica_Televisi%C3%B3n_2016.svg/revision/latest/scale-to-width-down/175?cb=20240207225027&path-prefix=es"  ,AmericaTV
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Am%C3%A9rica_Televisi%C3%B3n_2016.svg/revision/latest/scale-to-width-down/175?cb=20240207225027&path-prefix=es"  ,#️⃣   AmericaTV
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a048/index.m3u8
@@ -3869,7 +3869,7 @@ http://181.78.27.128:8000/play/a03l/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05l/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVOsfWUr5wWQiiTPLrlFneyk4DMtTNlS-U6g&s"  ,C9n
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVOsfWUr5wWQiiTPLrlFneyk4DMtTNlS-U6g&s"  ,#️⃣ C9n
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05s/index.m3u8
@@ -3894,7 +3894,7 @@ http://181.78.27.128:8000/play/a021/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04k/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Albavisi%C3%B3n.png"  ,Canal AlbNET
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Albavisi%C3%B3n.png"  ,#️⃣ Canal AlbNET
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05p/index.m3u8
@@ -3924,7 +3924,7 @@ http://181.78.27.128:8000/play/a01i/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a031/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png"  ,tv publica
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png"  ,#️⃣   tv publica
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a060/index.m3u8
@@ -3969,17 +3969,17 @@ http://181.78.27.128:8000/play/a02a/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03n/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTFMbStnL4uHOCk2wdfst7lUIY6xFDebtRA&s"  ,E40
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTFMbStnL4uHOCk2wdfst7lUIY6xFDebtRA&s"  ,#️⃣ E40
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a065/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/800px-Logo_del_canal_Encuentro.svg.png"  ,ENCUENTRO HD
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/800px-Logo_del_canal_Encuentro.svg.png"  ,#️⃣   ENCUENTRO HD
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04t/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png"  ,El Trece Arg
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png"  ,#️⃣   El Trece Arg
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05y/index.m3u8
@@ -4004,12 +4004,12 @@ http://181.78.27.128:8000/play/a035/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a042/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://pbs.twimg.com/profile_images/1572191556945285120/gezEdSuT_400x400.jpg"  ,Gen_Py
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://pbs.twimg.com/profile_images/1572191556945285120/gezEdSuT_400x400.jpg"  ,#️⃣ Gen_Py
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05n/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/2000px-Globo_logo_and_wordmark.svg.png"  ,Globo Brasil
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/2000px-Globo_logo_and_wordmark.svg.png"  ,#️⃣ Globo Brasil
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a068/index.m3u8
@@ -4049,22 +4049,22 @@ http://181.78.27.128:8000/play/a01h/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a046/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXOhnR4FnioU5Bfk1s1GCjQT7E3EqDpFGQ4GPx5ve0Yxk4MnTaAtgAIEuEBYYondmhBFc&usqp=CAU"  ,IP
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXOhnR4FnioU5Bfk1s1GCjQT7E3EqDpFGQ4GPx5ve0Yxk4MnTaAtgAIEuEBYYondmhBFc&usqp=CAU"  ,#️⃣ IP
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a055/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://pbs.twimg.com/profile_images/978088312429858816/5QYhbEew_400x400.jpg"  ,LAPACHO TV
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://pbs.twimg.com/profile_images/978088312429858816/5QYhbEew_400x400.jpg"  ,#️⃣ LAPACHO TV
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04o/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ltlcolor.png/1200px-Ltlcolor.png"  ,La Tele 
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ltlcolor.png/1200px-Ltlcolor.png"  ,#️⃣ La Tele 
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05q/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es"  ,Latina
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Latina_TV_logo_en_pantalla_2019-.svg/revision/latest/scale-to-width-down/250?cb=20220528224516&path-prefix=es"  ,#️⃣ Latina
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a047/index.m3u8
@@ -4094,17 +4094,17 @@ http://181.78.27.128:8000/play/a01f/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04x/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQos4sPY4V4F_pVaMTj5TOekiBcwKqsWjPVdQ&s"  ,Panamericana TV
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQos4sPY4V4F_pVaMTj5TOekiBcwKqsWjPVdQ&s"  ,#️⃣ Panamericana TV
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a049/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://yt3.googleusercontent.com/5TehEGDFRqifOh0JZ2y7v75u0xXzMUSdwlMdMDSmuSkd2UTicahVK4Q5-e1UVSSSwbxrOYCP9yM=s900-c-k-c0x00ffffff-no-rj"  ,Paraguay Tv
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://yt3.googleusercontent.com/5TehEGDFRqifOh0JZ2y7v75u0xXzMUSdwlMdMDSmuSkd2UTicahVK4Q5-e1UVSSSwbxrOYCP9yM=s900-c-k-c0x00ffffff-no-rj"  ,#️⃣ Paraguay Tv
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05m/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Paravision.jpg"  ,Paravision
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Paravision.jpg"  ,#️⃣ Paravision
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05u/index.m3u8
@@ -4114,7 +4114,7 @@ http://181.78.27.128:8000/play/a05u/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a040/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png"  ,SNT
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png"  ,#️⃣ SNT
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05t/index.m3u8
@@ -4154,7 +4154,7 @@ http://181.78.27.128:8000/play/a02c/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a01p/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tecnopolis_m.png"  ,TEC TV
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tecnopolis_m.png"  ,#️⃣ TEC TV
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04s/index.m3u8
@@ -4174,12 +4174,12 @@ http://181.78.27.128:8000/play/a01r/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a044/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png"  ,Telefe Arg
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png"  ,#️⃣   Telefe Arg
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05x/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM652mduhcspUNFlvwPmGw4_21N-Q6igH_Z1NmALZIZmKXCdYCbbpn5799jUfEM-F1kcg&usqp=CAU"  ,Telefuturo
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM652mduhcspUNFlvwPmGw4_21N-Q6igH_Z1NmALZIZmKXCdYCbbpn5799jUfEM-F1kcg&usqp=CAU"  ,#️⃣ Telefuturo
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05o/index.m3u8
@@ -4194,7 +4194,7 @@ http://181.78.27.128:8000/play/a03z/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a064/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9nWSQ2YMAILdGsvVwbUqU-AUVSdseMgSZg&s"  ,Trece
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9nWSQ2YMAILdGsvVwbUqU-AUVSdseMgSZg&s"  ,#️⃣ Trece
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05w/index.m3u8
@@ -4209,7 +4209,7 @@ http://181.78.27.128:8000/play/a063/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a01z/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkcouqzomSMEmImsrqnUlQ8dridXFC3o5Vw&s"  ,Unicanal 
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkcouqzomSMEmImsrqnUlQ8dridXFC3o5Vw&s"  ,#️⃣ Unicanal 
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05v/index.m3u8
@@ -4239,7 +4239,7 @@ http://181.78.27.128:8000/play/a02e/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03m/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Logo_Zona_Latina_2023.png/revision/latest/scale-to-width-down/236?cb=20230823211245&path-prefix=es"  ,Zona Latina
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Logo_Zona_Latina_2023.png/revision/latest/scale-to-width-down/236?cb=20230823211245&path-prefix=es"  ,#️⃣ Zona Latina
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a01m/index.m3u8
@@ -4259,7 +4259,7 @@ http://181.78.106.127:9000/play/ca026/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.106.127:9000/play/ca025/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png"  ,Univision
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png"  ,#️⃣ Univision
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.106.127:9000/play/ca024/index.m3u8
@@ -4319,18 +4319,18 @@ http://168.181.122.234:8000/play/a040/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://168.181.122.234:8000/play/a041/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" ,Caracol Colombia
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" ,#️⃣ Caracol Colombia
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02g
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,RCN
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,#️⃣ RCN
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02h
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,Señal Colombia
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,#️⃣ Señal Colombia
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02m
@@ -4340,7 +4340,7 @@ http://181.78.23.26:45000/play/a02m
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02p
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,Canal Soom
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,#️⃣ Canal Soom
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a02s
