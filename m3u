@@ -3824,7 +3824,7 @@ https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 
 
 
-#EXTINF:-1  group-logo="https://magistv-pro.net/wp-content/uploads/2024/05/magis-tv-pro.png"   group-title="HTTP SERVER"  tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png"  ,AE Mundo
+#EXTINF:-1  group-logo="https://magistv-pro.net/wp-content/uploads/2024/05/magis-tv-pro.png"   group-title="HTTP SERVER"  tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png"  ,🐾 AE Mundo
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03s/index.m3u8
@@ -3859,7 +3859,7 @@ http://181.78.27.128:8000/play/a04f/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a048/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png"  ,Animal Planet
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png"  ,🐾 Animal Planet
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03l/index.m3u8
@@ -3934,12 +3934,12 @@ http://181.78.27.128:8000/play/a060/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a061/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png"  ,Discovery Channel
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/60/60/0/0/24951383073066.png"  ,🐾 Discovery Channel
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03k/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/160/160/0/0/6146615007111.png"  ,Discovery ID
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/160/160/0/0/6146615007111.png"  ,🐾 Discovery ID
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a041/index.m3u8
@@ -3949,7 +3949,7 @@ http://181.78.27.128:8000/play/a041/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a020/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://banner2.kisspng.com/20180704/hty/kisspng-discovery-turbo-television-channel-discovery-chann-rua-gabriel-oeschler-5b3cb4edd44231.0893172215307051338694.jpg"  ,Discovery Turbo
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://banner2.kisspng.com/20180704/hty/kisspng-discovery-turbo-television-channel-discovery-chann-rua-gabriel-oeschler-5b3cb4edd44231.0893172215307051338694.jpg"  ,🐾 Discovery Turbo
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03d/index.m3u8
@@ -3964,7 +3964,7 @@ http://181.78.27.128:8000/play/a03j/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a02a/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.E-Entertainment-Logo.png.45cb86109090ec7d7e3630cf4673b4b5.png"  ,E Entertainment
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.E-Entertainment-Logo.png.45cb86109090ec7d7e3630cf4673b4b5.png"  ,🐾 E Entertainment
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03n/index.m3u8
@@ -4039,12 +4039,12 @@ http://181.78.27.128:8000/play/a027/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a028/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/90194224071499.png"  ,History Channel
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/90194224071499.png"  ,🐾 History Channel
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-gRDX1Q_4e5d11L38TvxE5q_Oahi3L_DFw&s"  ,HomeandHealth
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-gRDX1Q_4e5d11L38TvxE5q_Oahi3L_DFw&s"  ,🐾 HomeandHealth
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a046/index.m3u8
@@ -4074,7 +4074,7 @@ http://181.78.27.128:8000/play/a047/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a01l/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png"  ,Nat Geo
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png"  ,🐾 Nat Geo
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a01g/index.m3u8
@@ -4159,7 +4159,7 @@ http://181.78.27.128:8000/play/a01p/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a04s/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png"  ,TLC
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png"  ,🐾 TLC
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03u/index.m3u8
@@ -4392,18 +4392,18 @@ http://179.189.222.226:8000/play/ch16
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch21
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,Discovery
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,🐾 Discovery
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch22
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,Discovery turbo
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,🐾 Discovery turbo
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch24
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,Discovery h&h
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,🐾 Discovery h&h
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch25
@@ -4414,7 +4414,7 @@ http://179.189.222.226:8000/play/ch25
 http://179.189.222.226:8000/play/ch27
 
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,history
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,🐾 history
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch30
