@@ -3924,7 +3924,7 @@ http://181.78.27.128:8000/play/a01i/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a031/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png"  ,#️⃣   tv publica
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png"  ,#️⃣   tv publica
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a060/index.m3u8
@@ -4219,17 +4219,17 @@ http://181.78.27.128:8000/play/a05v/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a01j/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER"  tvg-chno="461" tvg-id="UNIVERSAL CINEMA.py" tvg-name="UNIVERSAL CINEMA.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="Universal+ Pack",🎥 Universal Cinema
+#EXTINF:-1 group-title="HTTP SERVER"   tvg-name="UNIVERSAL CINEMA.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="Universal+ Pack",🎥 Universal Cinema
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a02f/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER"  tvg-chno="462" tvg-id="UNIVERSAL COMEDY.py" tvg-name="UNIVERSAL COMEDY.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="Universal+ Pack",🎥 Universal Comedy
+#EXTINF:-1 group-title="HTTP SERVER"   tvg-name="UNIVERSAL COMEDY.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="Universal+ Pack",🎥 Universal Comedy
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a02g/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER"  tvg-chno="460" tvg-id="UNIVERSAL PREMIERE.py" tvg-name="UNIVERSAL PREMIERE.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="Universal+ Pack",🎥 Universal Premiere
+#EXTINF:-1 group-title="HTTP SERVER"    tvg-name="UNIVERSAL PREMIERE.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="Universal+ Pack",🎥 Universal Premiere
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a02e/index.m3u8
@@ -4249,7 +4249,7 @@ http://181.78.27.128:8000/play/a01m/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.106.127:9000/play/ca038/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png"  ,⚽ Directv sports
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp"  ,⚽ Directv sports
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.106.127:9000/play/ca026/index.m3u8
