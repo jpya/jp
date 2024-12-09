@@ -3828,7 +3828,7 @@ https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
 
 
 
-#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_TV_2015.svg"   group-title="HTTP SERVER"  tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png"  ,AE Mundo
+#EXTINF:-1  group-logo="https://magistv-pro.net/wp-content/uploads/2024/05/magis-tv-pro.png"   group-title="HTTP SERVER"  tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png"  ,AE Mundo
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03s/index.m3u8
