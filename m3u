@@ -4429,3 +4429,72 @@ http://179.189.222.226:8000/play/ch35
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch45
+
+
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER", sky esp
+http://181.78.106.127:9000/play/ca028/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER", sky eng
+http://181.78.106.127:9000/play/ca029/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER", sky 2 esp
+http://181.78.106.127:9000/play/ca030/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER", fox sports mex
+http://181.78.106.127:9000/play/ca031/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER", fox sports 2 mex
+http://181.78.106.127:9000/play/ca032/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER", espn mex
+http://181.78.106.127:9000/play/ca033/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER", espn 2 mex
+http://181.78.106.127:9000/play/ca034/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER", espn 3 mex
+http://181.78.106.127:9000/play/ca035/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER", espn 4 mex
+http://181.78.106.127:9000/play/ca036/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,ESPN VIVO HD
+http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,ESPN 2 HD
+http://200.60.124.19:29000/play/a015/index.m3u8
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,ESPN 3 HD
+http://200.60.124.19:29000/play/a02e/index.m3u8
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,ESPN 5
+http://200.60.124.19:29000/play/a04y/index.m3u8
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" , ESPN 6
+http://200.60.124.19:29000/play/a01f/index.m3u8
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,ESPN 7
+http://200.60.124.19:29000/play/a01e/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_1144,h_764/v1679957309/DIRECTV/~Global/images/split-content-3-2-espn-plus_dark_lnpn6g.png" group-title="HTTP SERVER" ,ESPN 4
+http://181.176.153.107:8090/play/a0rl/index.m3u8
+
+
+#EXTINF:-1   group-title="HTTP SERVER"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",D sports FHD
+http://38.43.151.206:8000/play/a04m/index.m3u8
+
+#EXTINF:-1   group-title="HTTP SERVER"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv(ecuador) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/directv/playlist.m3u8
+
+#EXTINF:-1   group-title="HTTP SERVER"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv opc 1
+http://45.228.233.93:8000/play/ca033/index.m3u8
+
+#EXTINF:-1   group-title="HTTP SERVER"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv opc 2
+http://181.78.106.127:9000/play/ca026/index.m3u8
+
+#EXTINF:-1   group-title="HTTP SERVER"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv opc 3
+http://177.53.155.236:8000/play/a0co/index.m3u8
+
+#EXTINF:-1   group-title="HTTP SERVER"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",Directv opc 4
+http://209.45.103.201:8000/play/a067/index.m3u8
+
