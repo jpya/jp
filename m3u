@@ -2881,7 +2881,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Classic/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176110.jpg?w=1119&h=1019" group-title="Movistar Peru",🎥 FMH MOVIES
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/FMH_Movies/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176251.jpg?w=1119&h=1019" group-title="Movistar Peru",DHE
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176251.jpg?w=1119&h=1019" group-title="Movistar Peru",🎥 DHE
 http://bantel-cdn1.iptvperu.tv:1935/transcoder5_cdnjry/dhe.stream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176266.jpg?w=1119&h=1019" group-title="Movistar Peru",🎥 PARAMOUNT
@@ -2899,7 +2899,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/sonymovies/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176438.jpg?w=1119&h=1019" group-title="Movistar Peru",🎥 FX
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/FX/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176226.jpg?w=1119&h=1019" group-title="Movistar Peru",MYTIME TV
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176226.jpg?w=1119&h=1019" group-title="Movistar Peru",🎥 MYTIME TV
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Mytime.stream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176447.jpg?w=1119&h=1019" group-title="Movistar Peru",🎥 STUDIO UNIVERSAL
@@ -2954,17 +2954,17 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnskf/universalcrime/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322614.jpg?w=1119&h=1019" group-title="Movistar Peru",🎥 TNT
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/tnt/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322634.jpg?w=1119&h=1019" group-title="Movistar Peru",TNT NOVELAS
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716322634.jpg?w=1119&h=1019" group-title="Movistar Peru",💞  TNT NOVELAS
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/tntnovelas/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716932483.jpg?w=1119&h=1019" group-title="Movistar Peru",CARTOON NETWORK
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716932483.jpg?w=1119&h=1019" group-title="Movistar Peru",🧩 CARTOON NETWORK
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/cartoonnetwork/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1716932508.jpg?w=1119&h=1019" group-title="Movistar Peru",⚽ TNT SPORTS
 http://bantel-cdn1.iptvperu.tv:1935/cdnskf/tntsports1/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725312597.jpg?w=1119&h=1019" group-title="Movistar Peru",TNT SERIES
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725312597.jpg?w=1119&h=1019" group-title="Movistar Peru",💞  TNT SERIES
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/TntSeries.stream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725312869.jpg?w=1119&h=1019" group-title="Movistar Peru",🐾 ANIMAL PLANET
@@ -2973,10 +2973,10 @@ http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/animalplanet.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313054.jpg?w=1119&h=1019" group-title="Movistar Peru",🎥 SPACE
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313117.jpg?w=1119&h=1019" group-title="Movistar Peru",COMEDY CENTRAL
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313117.jpg?w=1119&h=1019" group-title="Movistar Peru",🎥 COMEDY CENTRAL
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/comedy.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313210.jpg?w=1119&h=1019" group-title="Movistar Peru",A3 SERIES
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1725313210.jpg?w=1119&h=1019" group-title="Movistar Peru",🎥 A3 SERIES
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/a3series.stream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703174174.jpg?w=1119&h=1019" group-title="Movistar Peru",🐾 NAT GEO
@@ -3037,7 +3037,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnalh/goltv.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173374.jpg?w=1119&h=1019" group-title="Movistar Peru",🧩 CANAL INFANTIL
 http://bantel-cdn1.iptvperu.tv:1935/cdnpgh/canalinfantil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173405.jpg?w=1119&h=1019" group-title="Movistar Peru",IPE
+#EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173405.jpg?w=1119&h=1019" group-title="Movistar Peru",🧩 IPE
 http://bantel-cdn1.iptvperu.tv:1935/cdnjut/ipe.stream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173526.jpg?w=1119&h=1019" group-title="Movistar Peru",🧩 NICK JR
