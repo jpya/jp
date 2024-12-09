@@ -4647,6 +4647,19 @@ https://webhdrus.onlinehdhls.ru/lb/premium41/index.m3u8|Origin=https://weblivehd
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium42/index.m3u8|Origin=https://weblivehdplay.ru/
 
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1280px-Eurosport_Logo_2015.svg.png" group-title="...DADDY LIVE", EUROSPORTS 1 x
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium57/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1280px-Eurosport_Logo_2015.svg.png" group-title="...DADDY LIVE", EUROSPORTS 2 x
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium58/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+
 
 #EXTINF:-1  group-logo="-"  tvg-logo="https://cooplalonja.com.ar/wp-content/uploads/que-significa-la-m-de-movistar.webp" group-title="...DADDY LIVE", MOVISTAR LIGA DE CAMPEONES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -4664,6 +4677,12 @@ https://webhdrus.onlinehdhls.ru/lb/premium436/index.m3u8|Origin=https://webliveh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://imgcdn.myt.mu/revolution/internet-and-tv/dstv/dstv_logos/ss-variety.png" group-title="...DADDY LIVE", Supersports 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium56/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
 #EXTINF:-1  group-logo="-"  tvg-logo="https://imgcdn.myt.mu/revolution/internet-and-tv/dstv/dstv_logos/ss-variety.png" group-title="...DADDY LIVE", Supersports Acttion
