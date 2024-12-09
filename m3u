@@ -3899,7 +3899,7 @@ http://181.78.27.128:8000/play/a04k/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05p/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/120px-Canal_2_%28Las_Estrellas_2017%29.svg.png"  ,Canal Estrellas
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/120px-Canal_2_%28Las_Estrellas_2017%29.svg.png"  ,💞 Canal Estrellas
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03w/index.m3u8
@@ -4109,7 +4109,7 @@ http://181.78.27.128:8000/play/a05m/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png"  ,RCN Novelas
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png"  ,💞 RCN Novelas
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a040/index.m3u8
@@ -4169,7 +4169,7 @@ http://181.78.27.128:8000/play/a03u/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a01r/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.wikia.nocookie.net/rarter/images/2/23/TNT_Novelas_%282007%29.png/revision/latest/scale-to-width-down/246?cb=20231127013129"  ,TNT Novelas
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://static.wikia.nocookie.net/rarter/images/2/23/TNT_Novelas_%282007%29.png/revision/latest/scale-to-width-down/246?cb=20231127013129"  ,💞 TNT Novelas
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a044/index.m3u8
@@ -4184,7 +4184,7 @@ http://181.78.27.128:8000/play/a05x/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a05o/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://www.brandemia.org/wp-content/uploads/2012/06/logo_principal_telemundo.jpg"  ,Telemundo
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="https://www.brandemia.org/wp-content/uploads/2012/06/logo_principal_telemundo.jpg"  ,💞 Telemundo
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a03z/index.m3u8
@@ -4204,7 +4204,7 @@ http://181.78.27.128:8000/play/a05w/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a063/index.m3u8
 
-#EXTINF:-1 group-title="HTTP SERVER"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" ,USA SD
+#EXTINF:-1 group-title="HTTP SERVER"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" ,💞 USA SD
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a01z/index.m3u8
@@ -4355,7 +4355,7 @@ http://181.78.23.26:45000/play/a01h
 #EXTVLCOPT--http-reconnect=true
 http://181.78.23.26:45000/play/a01i
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,RCN
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,💞 RCN
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch59
@@ -4419,12 +4419,12 @@ http://179.189.222.226:8000/play/ch27
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch30
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,pasiones
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,💞 pasiones
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch35
 
-#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,telenovelas
+#EXTINF:-1 group-title="HTTP SERVER" tvg-logo="-" ,💞 telenovelas
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://179.189.222.226:8000/play/ch45
@@ -4495,28 +4495,28 @@ http://177.53.155.236:8000/play/a0co/index.m3u8
 #EXTINF:-1   group-title="HTTP SERVER"  tvg-name="test" tvg-id="None" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_858078-MCO77201483875_062024-O.webp",⚽ Directv opc 4
 http://209.45.103.201:8000/play/a067/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER", NOVELAS DRAMA
+#EXTINF:-1   tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 NOVELAS DRAMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER", NOVELAS ROMANCE
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 NOVELAS ROMANCE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER", NOVELAS TELEMUNDO
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 NOVELAS TELEMUNDO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER", NOVELISIMA
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 NOVELISIMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER", TELEVISA NOVELAS
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 TELEVISA NOVELAS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER", NOVELAS 2
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 NOVELAS 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER", NOVELAS TURCAS
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 NOVELAS TURCAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
-#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER", SONY NOVELAS
+#EXTINF:-1 group-logo="-"  tvg-logo="https://telepack.net/wp-content/uploads/2021/05/novela-channel-telepack.jpeg" group-title="HTTP SERVER",💞 SONY NOVELAS
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 
 
