@@ -4945,4 +4945,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium404/index.m3u8|Origin=https://webliveh
 
 
 
-
+#EXTINF:-1  group-logo="-"  tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_SportsnetOntario.png" group-title="...DADDY LIVE", SN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium409/index.m3u8|Origin=https://weblivehdplay.ru/
