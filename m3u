@@ -4904,10 +4904,40 @@ https://webhdrus.onlinehdhls.ru/lb/premium135/index.m3u8|Origin=https://webliveh
 https://webhdrus.onlinehdhls.ru/lb/premium391/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
-#EXTINF:-1  group-logo="-"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Ziggo_Sport.svg/revision/latest/scale-to-width-down/250?cb=20180812125626" group-title="...DADDY LIVE",1 ZIGO SPORTS
+#EXTINF:-1  group-logo="-"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Ziggo_Sport.svg/revision/latest/scale-to-width-down/250?cb=20180812125626" group-title="...DADDY LIVE", ZIGO SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium393/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Ziggo_Sport.svg/revision/latest/scale-to-width-down/250?cb=20180812125626" group-title="...DADDY LIVE", ZIGO SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium396/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2c/Digi_Sport_1_%282018-.n.v.%29.png/revision/latest?cb=20240205124520" group-title="...DADDY LIVE", DIGISPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium400/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2c/Digi_Sport_1_%282018-.n.v.%29.png/revision/latest?cb=20240205124520" group-title="...DADDY LIVE", DIGISPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium401/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2c/Digi_Sport_1_%282018-.n.v.%29.png/revision/latest?cb=20240205124520" group-title="...DADDY LIVE", DIGISPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium402/index.m3u8|Origin=https://weblivehdplay.ru/
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2c/Digi_Sport_1_%282018-.n.v.%29.png/revision/latest?cb=20240205124520" group-title="...DADDY LIVE", DIGISPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium403/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
 
 
 
