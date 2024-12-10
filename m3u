@@ -5085,7 +5085,28 @@ https://webhdrus.onlinehdhls.ru/lb/premium410/index.m3u8|Origin=https://webliveh
 
 
 
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png"   group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO 1
+https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
 
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png"   group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO 2
+https://cdnhd.iblups.com/hls/wCdPAY5bmT.m3u8
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png"   group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO 3
+https://cdnhd.iblups.com/hls/y2ZxmYwWEQ.m3u8
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png"   group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO 4
+https://cdnhd.iblups.com/hls/tKSMu1Yedf.m3u8
+
+
+
+
+
+
+
+
+
+------------------------------------------------peliculas-----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -6961,6 +6982,13 @@ https://archive.org/download/13-encuentros-muy-cercanos-con-senoras-de-cualquier
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vcGmCf3c0UD7a8BfKHq8ba7Jafn.jpg" group-title="",37 - Atracción Peculiar (1988)
 https://archive.org/download/13-encuentros-muy-cercanos-con-senoras-de-cualquier-tipo-1978/36%20-%20Atracci%C3%B3n%20Peculiar%20%281988%29.mp4
+
+
+
+
+
+
+
 
 
 
