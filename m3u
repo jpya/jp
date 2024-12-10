@@ -4853,6 +4853,21 @@ https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://webliveh
 https://webhdrus.onlinehdhls.ru/lb/premium132/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
+#EXTINF:-1  group-logo="-"  tvg-logo="https://nstatic.net/img/tv/channels/m/arena-sport-premium-1.png" group-title="...DADDY LIVE", ARENA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium134/index.m3u8|Origin=https://weblivehdplay.ru/
 
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://nstatic.net/img/tv/channels/m/arena-sport-premium-2.png" group-title="...DADDY LIVE", ARENA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium135/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+#EXTINF:-1  group-logo="-"  tvg-logo="https://nstatic.net/img/tv/channels/m/arena-sport-premium-2.png" group-title="...DADDY LIVE", ARENA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium135/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
