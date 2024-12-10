@@ -4711,6 +4711,15 @@ https://webhdrus.onlinehdhls.ru/lb/premium436/index.m3u8|Origin=https://webliveh
 https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8|Origin=https://weblivehdplay.ru/
 
 
+#EXTINF:-1  group-logo="-"  tvg-logo="https://cooplalonja.com.ar/wp-content/uploads/que-significa-la-m-de-movistar.webp" group-title="...DADDY LIVE", MOVISTAR 4TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium276/index.m3u8|Origin=https://weblivehdplay.ru/
+
+
+
+
+
 #EXTINF:-1  group-logo="-"  tvg-logo="https://imgcdn.myt.mu/revolution/internet-and-tv/dstv/dstv_logos/ss-variety.png" group-title="...DADDY LIVE", Supersports 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
